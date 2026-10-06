@@ -1,0 +1,831 @@
+{
+ "meta": {
+  "kicker": "Simulation d'entretien · préparation orale",
+  "title": "Wavestone Marseille — Simulation d'entretien complète",
+  "subtitle": "Stage de fin d'études · Consultant·e Cybersécurité",
+  "facts": [
+   "**Candidat** : Mohamed Fhafah",
+   "**Entretien** : 7 octobre 2026",
+   "**103 questions** avec réponses modèles"
+  ],
+  "footer": "Simulation d'entretien — Wavestone Marseille — Mohamed Fhafah"
+ },
+ "intro": {
+  "howto": [
+   "Lisez la question **à voix haute**, cachez la réponse, répondez, puis comparez.",
+   "Retenez les **mots en gras** et l'ordre des idées, pas les phrases : c'est ce qui évite l'effet « récité ».",
+   "Chronométrez-vous : la présentation dure environ **1 min 15**, la plupart des réponses **40 à 60 secondes**.",
+   "Le cadre **Conseil** sous chaque réponse dit quoi adapter avec vos propres souvenirs. Ne dites rien qui ne soit pas vrai.",
+   "**Priorité ce soir** : Q1, Q5, Q6, Q8, Q13, Q19, Q22, Q24, Q37, Q51, Q57, Q78, Q79, Q89 à Q93 et Q103."
+  ],
+  "deroule": [
+   "**Échange RH** (15 à 45 min) : présentation, motivation, connaissance de Wavestone et questions pratiques. C'est probablement l'étape de demain.",
+   "**Entretien avec un ou des consultants** (environ 1 h) : vos projets en détail, questions techniques cyber, petites mises en situation.",
+   "**Entretien final** : selon les témoignages, une étude de cas ou la présentation d'un sujet de stage devant un manager ou un associé.",
+   "Le format exact pour Marseille n'est pas confirmé : demandez-le en fin d'entretien (Q96). Sources : offres de stage Wavestone 2026 et témoignages de candidats."
+  ],
+  "regles": [
+   "**Répondez d'abord**, détaillez ensuite : la première phrase répond à la question.",
+   "**Une preuve concrète** par réponse : un fait, un chiffre ou un projet.",
+   "**Ni trop court, ni trop long** : 40 à 60 secondes, puis laissez le recruteur relancer.",
+   "Questions d'expérience : **situation, action, résultat, ce que j'en retiens**.",
+   "Un **vrai défaut**, lié au travail, avec ce que vous faites pour le corriger.",
+   "Si vous ne savez pas : « Je ne l'ai pas pratiqué, mais voici ce que je sais et **comment je l'apprendrais**. »",
+   "Mise en situation : **clarifier, structurer en trois blocs, prioriser, conclure**, en pensant à voix haute.",
+   "**Phrases courtes**, et une pause silencieuse plutôt qu'un « euh ».",
+   "Distinguez toujours **« ma partie »** et **« notre équipe »**.",
+   "Finissez par **deux ou trois questions**, un remerciement et votre motivation en une phrase."
+  ],
+  "memoTitle": "Wavestone en bref",
+  "memoIntro": "Les faits sûrs à citer. Un seul ou deux par réponse suffisent : le recruteur veut voir que vous vous êtes renseigné, pas une récitation.",
+  "memo": [
+   {
+    "label": "Identité",
+    "value": "Cabinet de conseil né en 1990 sous le nom **Solucom**, devenu **Wavestone en 2016** après le rapprochement avec Kurt Salmon (Europe). Coté à Paris."
+   },
+   {
+    "label": "Taille",
+    "value": "**6 111 collaborateurs** au 31 mars 2026. Chiffre d'affaires 2025/26 : **954 M€**, stable (+1 %)."
+   },
+   {
+    "label": "Q_PERIOR",
+    "value": "Rapprochement fin 2023 avec Q_PERIOR, très présent en **Allemagne, Autriche et Suisse**."
+   },
+   {
+    "label": "Plan stratégique",
+    "value": "**Lead the shift**, présenté en juin 2026, horizon 2030. L'**IA** pèse déjà environ **17 %** du chiffre d'affaires."
+   },
+   {
+    "label": "Valeurs",
+    "value": "« The Positive Way » : **Energetic, Responsible, Together**."
+   },
+   {
+    "label": "Employeur",
+    "value": "Classé **Great Place To Work** en France. Environ **86 %** des stagiaires recommandent le cabinet (HappyTrainees 2025)."
+   },
+   {
+    "label": "Cybersécurité",
+    "value": "**CERT-W** (réponse à incident), gestion de crise, Zero Trust, cloud, IT/OT, **identités**, risque fournisseurs."
+   },
+   {
+    "label": "Publications",
+    "value": "**Radar des startups cyber** avec Bpifrance (VivaTech 2026, plus de 230 startups). Radar RSSI. Enquête **MEDEF** sur la résilience numérique (février 2026)."
+   },
+   {
+    "label": "Marseille",
+    "value": "Environ **50 consultants**, dans la BU **ALMA** (Lyon, Marseille, Casablanca), plus de **270 consultants**."
+   },
+   {
+    "label": "À ne pas dire",
+    "value": "« Forte croissance », un effectif précis de l'équipe cyber, « B Corp », des noms de clients locaux, des chiffres d'anciens rapports présentés comme récents."
+   }
+  ],
+  "memoNote": "Faits relevés le 6 octobre 2026 dans les communiqués de Wavestone, l'offre et la presse. Si vous citez un chiffre, relisez-le le matin même."
+ },
+ "sections": [
+  {
+   "id": "accueil",
+   "title": "Accueil et présentation",
+   "goal": "Vérifier que vous vous présentez clairement, en peu de temps, avec un fil logique et une vraie motivation pour la cybersécurité.",
+   "questions": [
+    {
+     "question": "Présentez-vous. Parlez-moi de vous.",
+     "checks": "Le recruteur vérifie votre clarté, votre structure et le lien entre votre parcours et ce stage.",
+     "answer": "Je m'appelle Mohamed Fhafah. Je suis étudiant en master 2 Fiabilité et Sécurité Informatique à Aix-Marseille Université. La formation est labellisée par l'ANSSI. J'habite à Marseille.\n\nMon parcours tourne autour de trois axes. D'abord l'**audit**. Pendant mon stage chez Tanger Alliance, au Maroc, j'ai analysé trois politiques de sécurité face aux normes ISO. J'en ai tiré quinze recommandations et une feuille de route sur douze mois. Ensuite les **identités**. Dans mon projet de recherche, en équipe, j'ai pris en charge la connexion unique et la gestion automatique des comptes. Enfin la pratique, sur **Hack The Box**. Au 27 septembre 2026, j'avais résolu 36 machines et 5 Fortresses, des scénarios d'entreprise complets.\n\nCe qui me motive, c'est de comprendre un système dans son ensemble, puis de le sécuriser. Je cherche un stage de six mois à partir d'**avril 2027**. Le conseil, chez Wavestone à Marseille, me semble la bonne façon de débuter.",
+     "tip": "Gardez le fil passé, présent, futur, et finissez toujours par ce que vous cherchez : stage de six mois, avril 2027."
+    },
+    {
+     "question": "Pouvez-vous résumer votre parcours en une minute ?",
+     "checks": "Le recruteur vérifie votre capacité de synthèse et la cohérence de votre trajectoire.",
+     "answer": "Mon parcours est simple. J'ai fait une **licence d'informatique** à Aix-Marseille Université, de 2022 à 2025, avec la mention Assez Bien. Puis je suis entré dans le master Fiabilité et Sécurité Informatique. J'ai validé le **M1 avec la mention Bien**, à 15,25 sur 20.\n\nEn 2025, j'ai fait un stage de deux mois chez Tanger Alliance, un terminal à conteneurs de Tanger Med. C'était mon premier contact avec l'entreprise. En 2026, mon projet de recherche portait sur les identités et les accès, pour une PME du secteur médical. En parallèle, je pratique l'attaque sur Active Directory avec Hack The Box.\n\nCette année, en M2, je suis des cours de sécurité du cloud, de cryptographie et de réseaux. J'aime apprendre en pratiquant. Je cherche maintenant un **premier stage en conseil**.",
+     "tip": "Restez chronologique et factuel : c'est la version courte, sans redire mot pour mot votre présentation."
+    },
+    {
+     "question": "Comment avez-vous connu Wavestone et cette offre ?",
+     "checks": "Le recruteur vérifie que votre candidature est réfléchie et pas faite au hasard.",
+     "answer": "Je connaissais Wavestone de nom, comme un cabinet de conseil reconnu en **cybersécurité**. J'ai ensuite vu votre offre de stage à **Marseille**, publiée en septembre. Elle correspondait à ce que je cherchais, alors j'ai postulé. Depuis, je me suis renseigné sur vos publications.",
+     "tip": "Remplacez la première phrase par votre vrai canal si vous en avez un : école, camarade, forum ou événement."
+    },
+    {
+     "question": "Pourquoi avoir choisi la cybersécurité ?",
+     "checks": "Le recruteur cherche une motivation sincère, appuyée sur des actes et pas seulement sur un effet de mode.",
+     "answer": "Parce que la cybersécurité demande à la fois de **comprendre** et de **protéger**. J'aime comprendre comment un système fonctionne vraiment, puis voir où il peut casser.\n\nConcrètement, j'ai vécu les deux côtés. Côté attaque, sur Hack The Box, je travaille surtout sur Active Directory. C'est l'annuaire qui gère les comptes dans la plupart des entreprises. Côté défense, dans mon lab en binôme, nous avons corrigé les failles que nous avions exploitées. Chez Tanger Alliance, j'ai vu l'enjeu côté organisation, avec des règles et des recommandations.\n\nCe que j'en retiens : **la sécurité est un sujet d'équipe**, pas seulement de technique. C'est aussi pour cela que le conseil m'attire.",
+     "tip": "Si un déclic personnel vous a vraiment mené à la cyber, ajoutez-le en une phrase vraie : cela rend la réponse plus vivante."
+    }
+   ]
+  },
+  {
+   "id": "motivation",
+   "title": "Motivation",
+   "goal": "Vérifier que votre choix de Wavestone, du conseil, de ce stage et de Marseille est précis, réfléchi et sincère.",
+   "questions": [
+    {
+     "question": "Pourquoi Wavestone ?",
+     "checks": "Le recruteur vérifie que votre motivation est spécifique à Wavestone et pas copiable pour un autre cabinet.",
+     "answer": "J'ai trois raisons. D'abord votre positionnement : un cabinet de **conseil** qui a une vraie activité en cybersécurité et qui accompagne les clients du cadrage jusqu'à la réalisation. C'est ce que je veux vivre, un projet de bout en bout.\n\nEnsuite le contenu de l'offre. L'aide au choix de solutions, par exemple, ressemble à mon projet de recherche. En équipe, nous avons comparé quatre solutions pour gérer les identités et les accès.\n\nEnfin la culture. Wavestone est reconnu comme **Great Place To Work**, et vos stagiaires le recommandent. Pour un premier stage en conseil, cela compte pour moi. Vos valeurs, Energetic, Responsible, Together, correspondent aussi à ma façon de travailler.",
+     "tip": "C'est la question la plus rapportée : gardez ces trois raisons en tête, dans cet ordre, et reliez-les à des faits."
+    },
+    {
+     "question": "Pourquoi le conseil plutôt qu'une entreprise, un éditeur ou un SOC ?",
+     "checks": "Le recruteur vérifie que vous avez compris le métier de conseil et que vous assumez honnêtement vos limites.",
+     "answer": "Le conseil me permet de **voir beaucoup de sujets** en peu de temps. Dans une entreprise, on connaît un seul environnement. Chez un éditeur, on connaît surtout un produit. En conseil, il me semble qu'on compare plusieurs solutions et qu'on choisit ce qui convient au client.\n\nPour le SOC, je suis honnête : je n'ai pas exploité d'outil de supervision en production. Mais je préfère d'abord comprendre les enjeux d'un client avant de me spécialiser.\n\nMon projet de recherche ressemblait déjà à une petite mission de conseil : un cahier des charges, une comparaison, une maquette. Cela m'a donné envie d'**essayer ce métier**.",
+     "tip": "Ne dénigrez jamais les autres voies : présentez le conseil comme un choix positif, pas comme un rejet."
+    },
+    {
+     "question": "Pourquoi ce stage précisément ?",
+     "checks": "Le recruteur vérifie que vous avez lu l'offre en détail et que vos compétences y répondent.",
+     "answer": "Parce que ses thèmes recoupent mon profil. Dans l'offre, la **gestion des identités et des accès** m'attire beaucoup. C'est le cœur de mon projet de recherche : connexion unique, création automatique des comptes, et identités des agents d'intelligence artificielle. Votre exemple de sujet sur les agents de demain touche exactement à cela.\n\nJe n'ai pas encore pratiqué les outils de détection, ni la sécurité industrielle. Mais c'est justement ce que je veux apprendre.\n\nCe stage me permet de **creuser ce que je connais** et de **découvrir ce que je ne connais pas**, au sein d'une équipe expérimentée.",
+     "tip": "Citez un thème précis de l'offre et un seul fait de votre parcours qui le prouve, sans réciter l'annonce."
+    },
+    {
+     "question": "Pourquoi Marseille ?",
+     "checks": "Le recruteur vérifie que votre choix du lieu est durable et que vous êtes réellement disponible.",
+     "answer": "Parce que **j'habite à Marseille** et que je veux y travailler. Votre bureau compte une cinquantaine de consultants, au sein d'une équipe régionale de plus de 270 personnes avec Lyon et Casablanca. J'aime cette taille : on se connaît, et on peut avoir des **responsabilités rapidement**.\n\nL'offre parle de missions sur l'IT, l'industriel et le cloud. C'est la variété que je cherche. Et être sur place facilite le travail d'équipe avec les consultants du bureau. Je serai disponible dès **avril 2027**.",
+     "tip": "Si on parle de déplacements chez les clients, dites simplement que vous n'avez pas de voiture et que les transports couvrent Marseille et Aix."
+    },
+    {
+     "question": "Qu'attendez-vous de ce stage ?",
+     "checks": "Le recruteur vérifie que vos attentes sont réalistes et tournées vers l'apprentissage et l'utilité.",
+     "answer": "J'attends d'abord d'**apprendre le métier de consultant**. Comment on cadre un besoin, comment on structure une analyse, comment on restitue devant un client.\n\nJ'attends aussi des **responsabilités concrètes**, avec des consultants expérimentés qui m'encadrent. Mon idéal serait de suivre un projet de bout en bout, du cadrage à la recommandation.\n\nEnfin, je veux progresser sur les sujets que je connais moins, comme la détection ou la résilience. La résilience, c'est la capacité à repartir après un incident majeur. De mon côté, j'apporte de la rigueur et l'envie de bien faire. J'accueillerai tous les retours, même critiques, pour progresser vite.",
+     "tip": "Mélangez ce que vous voulez apprendre et ce que vous pouvez apporter : une attente purement égoïste sonne mal."
+    },
+    {
+     "question": "Pourquoi devrions-nous vous choisir ? Qu'apportez-vous ?",
+     "checks": "Le recruteur vérifie que vous savez vous vendre avec des preuves, sans exagérer.",
+     "answer": "Je pense apporter trois choses. D'abord une **base technique** en identités et en Active Directory, avec des projets concrets.\n\nEnsuite une vraie **méthode de travail**. Chez Tanger Alliance, j'ai transformé des constats en quinze recommandations priorisées. J'en ai fait une feuille de route, restituée à la direction informatique.\n\nEnfin la **curiosité** : je m'entraîne régulièrement sur Hack The Box, au-delà de mes cours.\n\nJe n'ai pas encore d'expérience en cabinet, c'est vrai. Mais j'apprends vite, j'aime travailler en équipe, et je serai disponible dès avril 2027.",
+     "tip": "Reconnaître votre manque d'expérience avant que le recruteur ne le fasse renforce votre crédibilité."
+    },
+    {
+     "question": "Où vous voyez-vous dans cinq ans ?",
+     "checks": "Le recruteur vérifie que votre ambition est réaliste et cohérente avec le conseil, et que vous n'êtes pas là pour passer.",
+     "answer": "Dans cinq ans, je me vois **consultant confirmé** en cybersécurité. D'ici là, j'aimerais d'abord consolider **une expertise sur un axe**. Aujourd'hui, les identités et l'intelligence artificielle appliquée à la cybersécurité m'attirent le plus. Mais je reste ouvert : le stage me dira où je suis le plus utile.\n\nJe veux aussi progresser sur la relation client et la prise de parole, parce que c'est le cœur du métier de conseil.\n\nMon objectif reste simple : devenir quelqu'un sur qui l'équipe et les clients peuvent compter.",
+     "tip": "Restez sobre : pas de titre ni de poste précis, parlez de compétences et de responsabilités."
+    },
+    {
+     "question": "Envisagez-vous un CDI après le stage ?",
+     "checks": "Le recruteur vérifie votre intérêt à long terme pour le cabinet, sans pression de votre part.",
+     "answer": "Oui, c'est une perspective que j'envisage. Wavestone est **une de mes priorités**. Mon premier objectif est de **faire mes preuves** pendant ces six mois. Si le stage se passe bien et si l'équipe le souhaite, je serais très intéressé par une suite.",
+     "tip": "Répondez oui sans surjouer, et n'abordez votre situation administrative que si le recruteur la demande."
+    }
+   ]
+  },
+  {
+   "id": "wavestone",
+   "title": "Connaissance de Wavestone et du métier",
+   "goal": "Vérifier que vous connaissez le cabinet et le métier de consultant, avec des faits justes et une réflexion personnelle.",
+   "questions": [
+    {
+     "question": "Que savez-vous de Wavestone ?",
+     "checks": "Le recruteur vérifie que vous vous êtes vraiment renseigné, avec des faits justes et pas seulement le site de recrutement.",
+     "answer": "Wavestone est un **cabinet de conseil** international, coté en bourse à Paris. Il est né en 1990 sous le nom de Solucom. Il a pris le nom de Wavestone en 2016, après un rapprochement avec les activités européennes de Kurt Salmon. Plus récemment, il s'est rapproché de Q_PERIOR, très présent en Allemagne, en Autriche et en Suisse.\n\nAujourd'hui, le cabinet compte plus de 6 000 collaborateurs. Son plan **Lead the shift**, présenté en juin 2026, vise l'horizon 2030 et fait de l'**intelligence artificielle** un axe majeur.\n\nEn cybersécurité, je connais surtout votre équipe de réponse à incident, le CERT-W. Cela me montre un conseil qui s'appuie sur des cas réels.",
+     "tip": "Évitez de parler de forte croissance ou de chiffres précis sur la cyber : restez sur des faits sûrs."
+    },
+    {
+     "question": "Que savez-vous de l'offre cybersécurité de Wavestone ?",
+     "checks": "Le recruteur vérifie que vous savez ce que le cabinet fait en cyber, sans inventer de détails.",
+     "answer": "D'après votre site, Wavestone couvre la cybersécurité sur toute la chaîne. On y trouve la **gestion de crise**, le CERT-W pour répondre aux incidents, le **Zero Trust**, la sécurité du cloud et la gestion des identités. On y trouve aussi la sécurité industrielle et le risque lié aux fournisseurs.\n\nJe ne connais pas le détail de vos missions. Ce qui m'attire d'abord, ce sont les identités et l'intelligence artificielle appliquée à la cybersécurité. Pour la détection et l'industriel, je viens avec l'envie d'apprendre.",
+     "tip": "Citez trois services maximum que vous pouvez relier à votre profil, et avouez ce que vous ne savez pas."
+    },
+    {
+     "question": "Qui sont nos concurrents, et qu'est-ce qui vous différencie ?",
+     "checks": "Le recruteur vérifie votre compréhension du marché et votre prudence face à ce que vous ne savez pas.",
+     "answer": "Je distingue deux familles. Il y a les grands cabinets généralistes, comme les Big Four, Accenture ou Capgemini Invent. Et il y a des acteurs cyber plus opérationnels, comme Orange Cyberdefense ou Synetis, qui font davantage de réalisation et de supervision.\n\nJe ne connais pas le détail de leurs offres, donc je reste prudent. Ce qui me semble distinguer Wavestone, c'est un **cabinet de conseil** avec une vraie activité cybersécurité, du cadrage à la réalisation. Le CERT-W apporte aussi des cas réels d'incidents. Cela rend les recommandations **concrètes**.",
+     "tip": "Ne dites jamais que Wavestone est indépendant des éditeurs comme un fait : présentez-le au mieux comme une impression."
+    },
+    {
+     "question": "Nos valeurs : laquelle vous parle le plus ?",
+     "checks": "Le recruteur vérifie que vous connaissez les valeurs et que vous les reliez à une expérience vécue.",
+     "answer": "Je connais vos trois valeurs : Energetic, Responsible et Together. Je me reconnais surtout dans **Together**. Pour moi, un bon résultat vient d'une équipe qui se parle.\n\nConcrètement, dans mon lab Active Directory en binôme, nous nous sommes réparti la construction et l'attaque. Puis nous avons partagé nos découvertes et documenté ensemble. Cela m'a donné une compréhension complète, de l'attaque à la défense.\n\nLes deux autres valeurs, **Energetic et Responsible**, comptent aussi pour moi. Mais Together est celle que j'ai le plus vécue.",
+     "tip": "Choisissez une seule valeur et appuyez-la sur un exemple vrai, sans attribuer au binôme ce qui est à lui."
+    },
+    {
+     "question": "Une actualité ou une publication de Wavestone vous a-t-elle marqué ?",
+     "checks": "Le recruteur vérifie votre veille et votre capacité à relier l'actualité du cabinet à la mission proposée.",
+     "answer": "Oui, le **Radar des startups cyber**, publié avec Bpifrance à VivaTech cette année. Il recense plus de 230 startups françaises de cybersécurité, et la majorité intègre de l'intelligence artificielle.\n\nJ'y vois un vrai rôle de **veille et d'aide au choix** de solutions. C'est exactement la mission de l'offre : comparer des solutions, avec des appels d'offres, des comparatifs et des essais pratiques.\n\nCela rejoint aussi mon projet de recherche, où nous avons comparé quatre solutions de gestion des identités et des accès, en équipe.",
+     "tip": "Relisez la publication juste avant l'entretien pour confirmer ce que vous citez, et gardez une formulation qualitative."
+    },
+    {
+     "question": "Selon vous, à quoi ressemble la journée d'un consultant junior en cybersécurité ?",
+     "checks": "Le recruteur vérifie que vous avez une image réaliste du métier, sans idéalisation.",
+     "answer": "Je ne l'ai pas encore vécu, donc je réponds d'après l'offre et mes lectures. Je pense que le consultant junior travaille au sein d'une **équipe projet**, avec des consultants expérimentés.\n\nUne journée type mélange plusieurs choses : analyser des documents, préparer des comparatifs, participer à des ateliers avec le client, et rédiger des **synthèses**. Il présente aussi ses travaux, d'abord en interne, puis devant le client.\n\nCe que j'en retiens : c'est un métier de rigueur, de clarté et de communication. C'est proche de mon stage chez Tanger Alliance, où j'ai rédigé un rapport et présenté mes résultats à la direction informatique.",
+     "tip": "Dites honnêtement que c'est votre représentation : le recruteur appréciera plus la lucidité qu'une description inventée."
+    },
+    {
+     "question": "Parmi les sujets de stage de l'offre, lequel vous attire et pourquoi ?",
+     "checks": "Le recruteur vérifie votre lecture précise de l'offre et le lien entre votre expérience et un sujet concret.",
+     "answer": "Celui qui m'attire le plus est : **Intelligence artificielle et cybersécurité, quels seront les agents de demain**. Dans mon projet de recherche, j'ai travaillé sur les identités des agents d'intelligence artificielle.\n\nConcrètement, dans la maquette, j'ai cadré leurs accès avec des règles fondées sur des attributs. J'ai aussi bloqué l'ancienne méthode d'authentification, qui contourne la double vérification. Un agent doit avoir un responsable humain, des droits minimaux et des journaux.\n\nCe n'était pas de la production, mais je veux aller plus loin. Ce sujet relie mon **travail de recherche** à un enjeu qui va compter pour **vos clients**.",
+     "tip": "Ne prétendez pas que ce travail était en production : c'était une maquette de projet de recherche."
+    },
+    {
+     "question": "Quelles qualités faut-il pour être un bon consultant ?",
+     "checks": "Le recruteur vérifie que vous comprenez les compétences clés du conseil et que vous vous situez honnêtement.",
+     "answer": "Selon moi, un bon consultant a quatre qualités. D'abord la **curiosité**, pour comprendre vite le métier du client. Ensuite la **rigueur** et la capacité à structurer. L'offre parle de formalisation et de prise de recul, et je suis d'accord.\n\nPuis la **clarté à l'oral**, pour convaincre un client. Enfin l'esprit d'équipe.\n\nChez Tanger Alliance, j'ai analysé des politiques de sécurité, puis transformé mes constats en recommandations priorisées. Je les ai présentées à la direction informatique. La prise de parole est un point où je veux encore progresser.",
+     "tip": "Appuyez chaque qualité sur un exemple court, et citez un point à améliorer pour paraître lucide."
+    },
+    {
+     "question": "Quels sont, selon vous, les grands enjeux actuels de la cybersécurité ?",
+     "checks": "Le recruteur vérifie votre culture cyber et votre capacité à relier les enjeux au métier de conseil.",
+     "answer": "J'en vois trois. Le premier est l'**intelligence artificielle**, à la fois outil de défense et nouvelle surface d'attaque. Par exemple, un agent d'intelligence artificielle a besoin d'une identité et de droits, comme un utilisateur.\n\nLe deuxième est la **souveraineté numérique** : mesurer les risques liés à la dépendance à des fournisseurs technologiques. Le troisième est la **résilience** : savoir continuer et repartir après un incident majeur.\n\nCes trois sujets apparaissent dans votre offre. Le premier est celui que je connais le mieux, grâce à mon projet de recherche. Les deux autres sont ceux que je veux apprendre avec vous.",
+     "tip": "Annoncez le plan en début de réponse, trois enjeux au maximum : c'est la posture de conseil attendue."
+    }
+   ]
+  },
+  {
+   "id": "parcours",
+   "title": "Votre parcours et vos projets",
+   "goal": "Vérifier que vous pouvez décrire vos projets avec précision, séparer ce que vous avez fait seul de ce qui relève de l'équipe, et en tirer un lien clair avec le métier de consultant.",
+   "questions": [
+    {
+     "question": "Votre stage chez Tanger Alliance : qu'avez-vous fait concrètement ?",
+     "checks": "Que vous décrivez un vrai travail, avec des livrables précis, sans le gonfler.",
+     "answer": "Concrètement, j'ai fait une **analyse d'écarts** de sécurité chez Tanger Alliance, un terminal à conteneurs au Maroc. C'était un stage de deux mois, du 29 avril au 30 juin 2025.\n\nJ'ai comparé trois politiques de sécurité à la norme ISO 27001 et à son guide ISO 27002. Par exemple, celle des mots de passe et celle des vulnérabilités. J'ai évalué leur maturité avec une grille appelée CMM. J'en ai tiré **quinze recommandations priorisées** et une **feuille de route** de douze mois en quatre phases. Le tout a été restitué à la direction des systèmes d'information, la DSI.\n\nC'est la même logique qu'un diagnostic de conseil. On mesure l'écart avec un référentiel, puis on recommande.",
+     "tip": "Donnez les chiffres une seule fois, calmement : trois politiques, quinze recommandations, douze mois, quatre phases."
+    },
+    {
+     "question": "Et vous, personnellement, qu'avez-vous fait dans ce stage ?",
+     "checks": "Que vous savez dire clairement ce qui est votre travail et où s'arrêtent vos limites.",
+     "answer": "Personnellement, j'ai réalisé **l'analyse**. J'ai lu les trois documents, mesuré l'écart avec la norme, évalué la maturité, puis rédigé les recommandations et la feuille de route. Ensuite, j'ai développé **seul** une plateforme de sensibilisation.\n\nJe veux être clair sur les limites. C'était un stage de deux mois. Je n'ai pas mis en œuvre les recommandations. Je n'ai pas géré de budget, ni conduit de certification. Mon rôle était d'analyser et de proposer.\n\nChez vous, ce serait la même base. J'apporterais une analyse claire, que des consultants expérimentés peuvent challenger et compléter.",
+     "tip": "Dire ses limites soi-même inspire confiance. Ne vous attribuez rien que vous n'avez pas fait."
+    },
+    {
+     "question": "Comment avez-vous priorisé vos quinze recommandations ?",
+     "checks": "Que vous avez une méthode de priorisation claire, et pas seulement une intuition.",
+     "answer": "Je me suis appuyé sur trois critères : l'**impact**, l'**effort** et les **dépendances**. Concrètement, j'ai croisé chaque écart constaté avec le niveau de maturité mesuré, pour voir où le besoin était le plus fort.\n\nEnsuite, j'ai séparé deux familles. D'un côté, les **quick wins**, des actions rapides qui réduisent vite le risque. De l'autre, les chantiers de fond, qui demandent du temps.\n\nLes dépendances fixaient l'ordre, car certaines actions n'ont de sens qu'après d'autres. Cela m'a donné la feuille de route en quatre phases. C'est le même arbitrage qu'un consultant doit expliquer et défendre devant un client.",
+     "tip": "Annoncez d'abord vos trois critères, puis donnez l'exemple. C'est la structure que les cabinets apprécient."
+    },
+    {
+     "question": "Parmi ces quinze recommandations, laquelle est la plus importante, et pourquoi ?",
+     "checks": "Votre capacité à trancher et à justifier un choix par un raisonnement simple.",
+     "answer": "Pour moi, l'une des plus importantes est l'**authentification multifacteur**. Elle ajoute un second justificatif au mot de passe, par exemple un code reçu sur le téléphone.\n\nMon raisonnement est simple. Un mot de passe volé ou deviné reste l'une des portes d'entrée les plus courantes. Avec un second justificatif, cette porte se ferme en grande partie, pour un effort raisonnable.\n\nMais je dois être honnête. Je l'ai **recommandée**, je ne l'ai **pas déployée**. Je connais ses pièges, par exemple l'ancienne authentification qui la contourne. Et c'est un thème de votre offre, la gestion des identités.",
+     "tip": "Si une autre recommandation était classée première dans votre rapport, citez plutôt celle-là."
+    },
+    {
+     "question": "Comment la DSI a-t-elle reçu vos recommandations, et comment les avez-vous présentées ?",
+     "checks": "Votre sens de la restitution, et votre honnêteté sur ce que vous ne savez pas du résultat.",
+     "answer": "J'ai présenté mon travail avec un rapport écrit, puis une **restitution orale**. Pour rester lisible, j'ai regroupé les quinze recommandations dans une **feuille de route** de douze mois, en quatre phases. On y voit d'un coup d'œil les actions rapides et les chantiers de fond.\n\nPour la réaction de la DSI, je ne vais pas vous dire que tout a été adopté. Je n'ai pas de chiffre de résultat, ni de suivi de la mise en œuvre à vous donner.\n\nCe que j'en retiens, c'est qu'un décideur attend un ordre clair et des priorités. C'est aussi ce que votre offre appelle la restitution.",
+     "tip": "Si on insiste sur la réaction exacte de la DSI, ne l'inventez pas. Dites ce que vous savez, puis revenez à ce que vous avez appris."
+    },
+    {
+     "question": "Parlez-moi de votre plateforme de sensibilisation.",
+     "checks": "Que vous savez passer d'un constat à une réalisation, et que vous en connaissez les limites.",
+     "answer": "C'est une plateforme web de **sensibilisation à la cybersécurité**, que j'ai développée seul pendant mon stage, avec Flask, un outil Python pour le web. Elle part d'un constat de mon analyse : les utilisateurs avaient besoin d'être mieux sensibilisés.\n\nConcrètement, elle propose des modules de formation, des quiz, des certificats et des badges. Elle permet aussi de lancer du **phishing simulé**, c'est-à-dire de faux courriels piégés. On suit qui les ouvre, qui clique et qui les signale.\n\nJe ne la présente pas comme un produit fini. Elle n'a pas, par exemple, d'authentification multifacteur. Mais elle rejoint la conduite du changement que cite votre offre.",
+     "tip": "Citez vous-même un défaut de la plateforme. Cela évite la question piège et montre votre lucidité."
+    },
+    {
+     "question": "Parlez-moi de votre projet de recherche sur la gestion des identités : votre rôle, votre démarche.",
+     "checks": "Que vous distinguez votre part de celle de l'équipe, et que vous suivez une démarche structurée.",
+     "answer": "C'était un **projet de recherche encadré**, en équipe, de mai à juillet 2026. Le sujet était un cahier des charges de gestion des identités et des accès pour une PME du secteur médical.\n\nEn équipe, nous avons fait l'analyse de risques, le comparatif de solutions et une politique d'accès. Elle s'alignait sur l'ISO 27002, les règles sur les données de santé et le RGPD. **Ma partie** portait sur les identités et les accès. Sur une maquette, j'ai mis en place la connexion unique entre Entra ID, l'annuaire de Microsoft, et GitLab, puis la création automatique des comptes. J'ai aussi traité les identités des agents IA.\n\nLa démarche allait du besoin au risque, puis à la politique, puis à la maquette. C'est très proche d'une mission de conseil.",
+     "tip": "Dites « ma partie » et « notre équipe » de façon nette. Les recruteurs testent souvent cette frontière."
+    },
+    {
+     "question": "Dans ce projet, comment avez-vous comparé les quatre solutions ?",
+     "checks": "Votre méthode d'aide au choix, et votre honnêteté sur ce qui a été fait ou non.",
+     "answer": "Nous avons comparé **quatre solutions** : Entra ID, Okta, BeyondTrust et CyberArk. Je précise que c'était un **travail d'équipe**, je ne me l'attribue pas seul.\n\nElles ne jouent pas le même rôle. Entra ID et Okta gèrent les identités et la connexion des utilisateurs. BeyondTrust et CyberArk protègent les comptes à privilèges, ceux des administrateurs. Nous les avons donc comparées avec des critères issus du cahier des charges et de l'analyse de risques.\n\nUne limite importante : ce n'était **pas un test comparatif** en vue d'un achat. Mais la logique est celle de l'aide au choix que vous citez dans votre offre.",
+     "tip": "Ne donnez pas de vainqueur si vous n'en avez pas. Parlez de critères, c'est ce qu'un cabinet veut entendre."
+    },
+    {
+     "question": "Expliquez-moi SAML et SCIM simplement.",
+     "checks": "Que vous savez vulgariser deux notions techniques sans jargon, avec un exemple vécu.",
+     "answer": "**SAML** est un standard de connexion unique. L'image que j'utilise est celle d'un passeport. Un service de confiance le délivre, signé, et l'application vérifie la signature avant de vous laisser entrer, sans redemander de mot de passe.\n\nDans mon projet, Entra ID délivrait ce passeport et GitLab le recevait.\n\n**SCIM**, lui, gère les comptes automatiquement. Il crée, modifie et désactive un compte quand une personne arrive, change de poste ou part. Le départ est le point sensible, à cause des **comptes oubliés**.\n\nEn résumé, SAML ouvre la porte, et SCIM tient à jour la liste des personnes autorisées.",
+     "tip": "Gardez l'image du passeport. Si le recruteur creuse, proposez de détailler le déroulé étape par étape."
+    },
+    {
+     "question": "Hack The Box et votre lab Active Directory : qu'est-ce que cela vous apporte pour un poste de conseil ?",
+     "checks": "Que vous reliez vos pratiques techniques à la valeur apportée au client, sans en exagérer la portée.",
+     "answer": "Cela m'apporte la **vision de l'attaquant**, qui rend mes recommandations plus solides. Hack The Box est une plateforme d'entraînement à l'attaque. Au 27 septembre 2026, j'avais résolu **36 machines** et **5 Fortresses**, des parcours complets. Je travaille surtout sur Active Directory, l'annuaire central des entreprises Windows.\n\nMon lab, en binôme, reprenait cela. Nous avons construit un domaine, puis testé des attaques classiques comme le Kerberoasting et le DCSync. Ensuite, nous avons corrigé avec un modèle d'administration en niveaux et des règles de groupe.\n\nJe n'ai jamais fait de test d'intrusion pour un client. Mais comprendre l'attaque m'aide à expliquer pourquoi une mesure compte.",
+     "tip": "Datez toujours les chiffres, comme ici. Et dites bien « en binôme » pour le lab."
+    },
+    {
+     "question": "Parlez-moi de votre lab de reproduction de failles, ou CVE.",
+     "checks": "Votre rigueur technique, et votre honnêteté sur l'absence d'incident réel.",
+     "answer": "C'est un projet de mon master : un **laboratoire de reproduction de failles connues**. Une faille connue porte un identifiant public, appelé CVE.\n\nLe principe est automatisé. Avec Vagrant et Ansible, des outils de déploiement, on crée un environnement volontairement vulnérable. On part d'un avis du CERT-FR, le centre d'alerte de l'État. On rejoue un exploit de démonstration, puis on extrait les **indicateurs de compromission**, c'est-à-dire les traces laissées. Enfin, on propose un plan de correction fondé sur les guides de l'ANSSI.\n\nJe n'ai pas géré d'incident réel. Je sais que votre CERT-W intervient sur de vrais cas. J'en retiens surtout la différence entre **gravité** et risque. Un score élevé ne dit pas si la faille menace vraiment l'entreprise.",
+     "tip": "Préparez un exemple de CVE précis en deux minutes avant demain. Si vous n'en maîtrisez aucun, ne citez pas de nom."
+    },
+    {
+     "question": "Quel est le projet dont vous êtes le plus fier ?",
+     "checks": "Ce qui compte pour vous, et si votre choix est cohérent avec le métier de consultant.",
+     "answer": "Je suis le plus fier de **ma partie du projet de recherche** sur les identités. J'ai mis en place la connexion unique entre Entra ID et GitLab, avec création et désactivation automatiques des comptes. C'est concret, et on peut en vérifier le résultat.\n\nJ'ai aussi traité un sujet récent, les **identités des agents IA**. Je précise que c'était une maquette, pas une production.\n\nC'est aussi le projet qui ressemble le plus à votre métier. Il y a un besoin, une analyse, un choix, puis une maquette. C'est ce que je voudrais faire à plus grande échelle.",
+     "tip": "Choisissez le projet que vous racontez avec le plus d'énergie. L'enthousiasme sincère se remarque à l'oral."
+    },
+    {
+     "question": "Quelle matière ou quel cours vous a le plus marqué ?",
+     "checks": "Votre curiosité réelle, et votre capacité à relier un cours à un usage concret.",
+     "answer": "Je citerais le projet de **réseau d'entreprise segmenté** de mon master. Il fallait définir des zones de confiance, une administration séparée, une matrice des flux autorisés et un plan de tests.\n\nCe qui m'a marqué, c'est la règle du **refus par défaut**. On n'autorise que ce qui est nécessaire, puis on teste ce qui doit passer et ce qui doit être bloqué. Cela limite le déplacement d'un attaquant dans le réseau.\n\nJe n'ai pas travaillé sur des systèmes industriels. Mais cette logique de zones m'a donné une base utile pour ces sujets.",
+     "tip": "Si un autre cours vous a vraiment plus marqué, remplacez cette réponse. Gardez la même structure : le cours, l'idée forte, l'usage."
+    },
+    {
+     "question": "Si vous refaisiez votre projet de recherche, que changeriez-vous ?",
+     "checks": "Votre recul critique sur votre propre travail, et votre sens du déploiement réel.",
+     "answer": "Je passerais de la maquette à un **vrai test** avec de vrais utilisateurs. Ma maquette montrait que la connexion unique et la création des comptes fonctionnent, mais elle n'a jamais été éprouvée en production.\n\nJe soignerais aussi le départ des personnes, le point le plus sensible, à cause des comptes oubliés. Et pour bloquer l'ancienne authentification, je commencerais en **mode rapport seul**. On voit l'effet réel avant de bloquer quoi que ce soit.\n\nCe que j'en retiens, c'est qu'une maquette n'est qu'une première étape. Un client attend un **déploiement progressif**, avec des vérifications à chaque palier.",
+     "tip": "Une critique de votre propre travail, courte et précise, montre de la maturité. Évitez de tout remettre en cause."
+    }
+   ]
+  },
+  {
+   "id": "comportement",
+   "title": "Questions comportementales (méthode STAR)",
+   "goal": "Vérifier votre façon d'agir en situation réelle : méthode, honnêteté, capacité à apprendre de l'expérience et à travailler avec les autres.",
+   "questions": [
+    {
+     "question": "Parlez-moi d'une difficulté que vous avez surmontée.",
+     "checks": "Votre méthode face à la complexité, et la leçon que vous en tirez.",
+     "answer": "Ma difficulté la plus marquante, c'est la **priorisation** des recommandations chez Tanger Alliance. J'avais analysé trois documents en deux mois, et les constats étaient nombreux. Tout semblait important, et je devais proposer un ordre clair.\n\nJ'ai fixé trois critères : l'impact, l'effort et les dépendances. J'ai croisé chaque constat avec le niveau de maturité. Puis j'ai séparé les actions rapides des chantiers de fond.\n\nLe résultat est une **feuille de route** de douze mois en quatre phases, restituée à la DSI. Ce que j'en retiens, c'est que face à beaucoup de sujets, il faut d'abord se donner des **critères**. Le choix devient alors défendable.",
+     "tip": "Racontez dans l'ordre : le contexte, le blocage, ce que vous avez changé, le résultat, la leçon. Terminez toujours par la leçon."
+    },
+    {
+     "question": "Parlez-moi d'un échec ou d'une erreur, et de ce que vous en avez tiré.",
+     "checks": "Votre honnêteté, votre sens des responsabilités, et ce que vous avez corrigé ensuite.",
+     "answer": "Voici une vraie erreur. Dans la plateforme de sensibilisation que j'ai développée, j'avais laissé un **mot de passe administrateur par défaut** dans le code. Ce code était suivi avec git, l'outil qui garde tout l'historique.\n\nJe l'ai vu, puis je l'ai retiré du code et de l'historique. Je sais aussi qu'un secret exposé doit être considéré comme **compromis**, donc changé. Retirer la ligne ne suffit pas, car l'ancienne valeur peut rester lisible.\n\nCe que j'en retiens, c'est qu'un secret n'a jamais sa place dans un dépôt de code. Pour quelqu'un qui travaille en cybersécurité, ce réflexe est essentiel.",
+     "tip": "Gardez ce récit court et sans excuse. Une erreur reconnue et corrigée vous rend plus crédible, surtout en cybersécurité."
+    },
+    {
+     "question": "Parlez-moi d'un désaccord ou d'un conflit au sein d'une équipe.",
+     "checks": "Votre manière de travailler avec les autres, sans fabriquer une histoire.",
+     "answer": "Je n'ai pas vécu de vrai conflit, mais j'ai connu des moments où il fallait **se mettre d'accord**. Le meilleur exemple, c'est mon **lab Active Directory en binôme**. Nous devions nous répartir le travail : la construction du domaine d'un côté, les attaques de l'autre. Nous avons partagé nos découvertes et tenu une documentation commune.\n\nQuand un désaccord apparaît, ma méthode est simple. J'expose mes arguments avec des faits. J'écoute ceux de l'autre. Puis nous testons, ou nous demandons un avis extérieur.\n\nDans ce lab, cela nous a donné une **compréhension complète**, de l'attaque jusqu'à la défense.",
+     "tip": "Ne fabriquez jamais un conflit. Dire « je n'en ai pas eu » puis donner sa méthode est une réponse acceptée."
+    },
+    {
+     "question": "Parlez-moi d'une situation avec un délai très serré, ou plusieurs tâches en même temps.",
+     "checks": "Votre capacité à décider de l'essentiel et à gérer un périmètre.",
+     "answer": "Mon stage chez Tanger Alliance en est le meilleur exemple. En **deux mois**, je devais analyser trois documents, produire quinze recommandations et une feuille de route, puis développer une plateforme de sensibilisation.\n\nConcrètement, j'ai avancé par ordre d'importance. J'ai d'abord traité le livrable principal, le rapport restitué à la DSI. Ensuite seulement, j'ai construit la plateforme.\n\nLe résultat, c'est que les deux livrables existent. Je n'ai pas vécu de situation de crise, je préfère le dire. Ce que j'en retiens, c'est qu'avec peu de temps, il faut décider de l'**essentiel**. Il faut aussi accepter un périmètre limité, et le dire clairement.",
+     "tip": "Ne parlez pas de nuits blanches. Les cabinets cherchent quelqu'un qui priorise, pas quelqu'un qui s'épuise."
+    },
+    {
+     "question": "Parlez-moi d'une fois où vous avez dû convaincre quelqu'un.",
+     "checks": "Votre capacité à défendre un avis avec des arguments, plus que par l'autorité.",
+     "answer": "Le meilleur exemple, c'est ma **restitution à la DSI** chez Tanger Alliance. Je devais faire accepter un ordre d'actions, donc justifier pourquoi une recommandation passait avant une autre.\n\nPlutôt que de donner mon opinion, j'ai appuyé chaque choix sur trois critères visibles : l'**impact**, l'effort et les dépendances. Et j'ai présenté le tout sous forme de feuille de route, plus facile à discuter qu'une liste.\n\nCe que j'en retiens, c'est qu'on convainc mieux avec des **critères clairs** qu'avec de l'autorité. Votre offre parle de partage de conviction, et c'est une compétence que je veux développer.",
+     "tip": "Terminez en reliant à l'offre. Vous montrez que vous avez compris une compétence attendue du consultant."
+    },
+    {
+     "question": "Parlez-moi d'une fois où vous avez dû apprendre très vite un sujet nouveau.",
+     "checks": "Votre méthode d'apprentissage, et votre honnêteté sur le niveau atteint.",
+     "answer": "Dans mon projet de recherche, j'ai pris en charge les **identités des agents IA**. C'est un sujet récent, avec peu de pratiques établies. Ma tâche était de proposer comment encadrer des comptes techniques, qui ne sont pas des personnes.\n\nJe suis parti de ce que je maîtrisais déjà, les identités dans Entra ID. J'ai défini une gouvernance de ces comptes, avec des accès par groupes dynamiques, selon des attributs. J'ai aussi bloqué l'ancienne authentification, qui contourne le multifacteur.\n\nLe résultat est une **maquette cohérente**, pas une solution éprouvée en production. Ce que j'en retiens, c'est qu'un sujet nouveau devient abordable quand on le relie à des bases solides.",
+     "tip": "Ne dites pas que le sujet était entièrement nouveau pour vous. Montrez plutôt comment vous vous êtes appuyé sur vos bases."
+    },
+    {
+     "question": "Parlez-moi d'une critique que vous avez reçue, et de ce que vous en avez fait.",
+     "checks": "Votre ouverture au retour, et votre manière de l'utiliser pour progresser.",
+     "answer": "Quand je reçois une **critique**, je commence par la reformuler. Cela me permet d'être sûr d'avoir bien compris ce qui est attendu. Ensuite, je l'applique, puis je demande si c'est mieux.\n\nJe ne la prends pas comme un jugement sur moi, mais comme une information pour progresser.\n\nCe que j'en retiens, c'est qu'un **retour rapide** vaut mieux qu'un défaut qui dure. Dans une équipe de consultants expérimentés, je m'attends à des retours fréquents, et je les recherche.",
+     "tip": "Ce soir, retrouvez un vrai retour reçu d'un encadrant ou d'un professeur, et racontez-le à la place de l'exemple général : c'est plus fort."
+    },
+    {
+     "question": "Parlez-moi d'une initiative que vous avez prise.",
+     "checks": "Votre autonomie, et votre envie d'aller au-delà de la demande.",
+     "answer": "Mon initiative la plus claire, c'est la **plateforme de sensibilisation** chez Tanger Alliance. Mon analyse montrait un manque de sensibilisation des utilisateurs. Plutôt que de seulement le recommander, j'ai voulu proposer un outil.\n\nJe l'ai développée seul. Elle contient des modules de formation, des quiz, des certificats et des badges. Elle permet aussi de lancer du phishing simulé, avec un suivi des ouvertures, des clics et des signalements.\n\nJe n'ai pas de chiffre d'usage à vous donner. Ce que j'en retiens, c'est qu'une **recommandation** devient bien plus parlante quand on montre un prototype. Je voudrais garder cette habitude chez vous.",
+     "tip": "Gardez les chiffres d'usage pour ce que vous savez vraiment. Ici, le point fort est la démarche, pas le résultat."
+    },
+    {
+     "question": "Comment expliquez-vous un sujet technique à quelqu'un qui n'est pas technicien ?",
+     "checks": "Votre clarté, et votre capacité à partir de l'enjeu plutôt que de la technique.",
+     "answer": "Dans ma restitution chez Tanger Alliance, j'ai transformé quinze recommandations en une **feuille de route** de quatre phases. Une liste technique de quinze points parle peu à un décideur. Un calendrier clair, beaucoup plus.\n\nPour expliquer un sujet technique, j'utilise des images simples. Par exemple, l'authentification multifacteur, c'est une porte avec une clé et un code. Le mot de passe est la clé. Le code reçu sur le téléphone est un **second verrou**. Si la clé est volée, la porte reste fermée.\n\nCe que j'en retiens, c'est de partir du risque pour l'activité, pas de la technique.",
+     "tip": "Gardez une ou deux images prêtes, comme la porte et la clé. Une image simple vaut mieux qu'une définition."
+    },
+    {
+     "question": "Quel est votre rôle habituel dans une équipe ?",
+     "checks": "Votre fonctionnement concret en équipe, sans vous donner un rôle que vous n'avez pas eu.",
+     "answer": "Dans une équipe, je prends en général **une partie clairement identifiée** et je la mène jusqu'au bout. Dans mon projet de recherche, ma partie était les identités et les accès. Nous avons fait ensemble l'analyse de risques et le comparatif de solutions.\n\nDans mon lab en binôme, nous avons réparti la construction et l'attaque, et partagé la **documentation**. J'aime documenter ce que je fais et partager ce que je trouve.\n\nJe ne me présente pas comme un chef d'équipe, je n'en ai pas eu l'occasion. Votre offre cherche un vrai team player, et c'est le rôle où je me sens le plus utile.",
+     "tip": "Citez votre rôle avec des verbes concrets. Évitez les adjectifs vagues comme « dynamique » ou « motivé »."
+    },
+    {
+     "question": "Quand vous êtes bloqué sur un problème technique, que faites-vous ?",
+     "checks": "Votre méthode face au blocage, et votre réflexe de demander de l'aide au bon moment.",
+     "answer": "Je procède par méthode, pas au hasard. Sur Hack The Box, chaque machine suit la même démarche : reconnaissance, énumération, accès, élévation de privilèges, puis rapport. Quand je bloque, je reviens à **l'énumération**. Je relis mes notes et je cherche ce que j'ai manqué.\n\nJe teste ensuite une **autre approche**, car il y en a souvent plusieurs. Je note ce qui a échoué, pour ne pas le refaire. Au bout d'un temps raisonnable, je demande un avis.\n\nDans un cabinet, je préfère poser la question tôt plutôt que de perdre une journée. Ce que j'en retiens, c'est qu'une **méthode écrite** évite de tourner en rond.",
+     "tip": "Si vous avez un blocage réel en tête, remplacez cette réponse par ce récit : contexte, blocage, changement d'approche, leçon."
+    }
+   ]
+  },
+  {
+   "id": "technique",
+   "title": "Questions techniques cyber (niveau stage, liées à l'offre)",
+   "goal": "Vérifier que vous maîtrisez les bases, que vous restez honnête sur ce que vous n'avez pas pratiqué et que vous apprenez vite.",
+   "questions": [
+    {
+     "question": "Quelle est la différence entre l'ISO 27001 et l'ISO 27002 ?",
+     "checks": "Le recruteur vérifie que vous connaissez les bases de la gouvernance et que vous les avez déjà utilisées.",
+     "answer": "La **27001** est la norme qui fixe les **exigences** pour construire un système de management de la sécurité. C'est elle que l'on certifie. La **27002**, elle, est un guide de bonnes pratiques qui détaille les mesures de sécurité.\n\nPour faire simple, la 27001 dit quoi faire, et la 27002 dit comment le faire concrètement.\n\nChez Tanger Alliance, j'ai analysé l'écart entre trois politiques de sécurité et ces deux normes. J'ai aussi noté la maturité de chaque document. Dans notre projet de recherche, en équipe, nous avons aligné une politique d'accès sur les mesures 8.2 et 8.4 de la 27002.\n\nC'est une base utile pour vos missions de gouvernance et de conformité.",
+     "tip": "Retenez la formule « la 27001 dit quoi faire, la 27002 dit comment » : elle est simple et se retient bien."
+    },
+    {
+     "question": "Qu'est-ce qu'un SMSI ?",
+     "checks": "Le recruteur vérifie que vous comprenez qu'un SMSI est un système vivant, pas un document.",
+     "answer": "Un SMSI est un **système de management** de la sécurité de l'information. C'est une organisation qui gère la sécurité **en continu**, et pas un simple projet ponctuel.\n\nIl repose sur un cycle. On analyse les risques, on choisit des mesures, on les applique, puis on contrôle et on s'améliore. Concrètement, il y a une politique, des responsables, des indicateurs et des audits réguliers.\n\nJe n'en ai pas mis en place en production. Chez Tanger Alliance, j'ai en revanche évalué la maturité de politiques existantes et proposé une feuille de route sur douze mois.\n\nCe que j'en retiens : le plus dur est de faire vivre le système dans la durée.",
+     "tip": "Dites clairement que vous n'avez pas mis en place de SMSI : l'honnêteté rassure plus qu'un exemple gonflé."
+    },
+    {
+     "question": "Quelle est la différence entre une menace, une vulnérabilité et un risque ?",
+     "checks": "Le recruteur vérifie que vos définitions de base sont exactes et que vous savez les illustrer simplement.",
+     "answer": "Une **menace**, c'est ce qui peut causer un dommage, par exemple un attaquant ou un rançongiciel. Une **vulnérabilité**, c'est une faiblesse que la menace peut exploiter, comme un système non mis à jour.\n\nLe **risque**, c'est la combinaison des deux : la probabilité qu'une menace exploite une faille, multipliée par l'impact sur l'activité.\n\nUn exemple simple : un serveur non corrigé est une vulnérabilité. Si personne ne peut l'atteindre, le risque reste faible. S'il est exposé sur internet et qu'il porte des données sensibles, le risque devient élevé.\n\nDans mon labo de reproduction de failles, j'ai retenu qu'une note de gravité n'est pas un risque. Il faut toujours regarder le contexte.",
+     "tip": "Donnez toujours un exemple chiffré ou concret après la définition : c'est ce qui prouve que vous avez compris."
+    },
+    {
+     "question": "Comment menez-vous une analyse de risques ? Connaissez-vous EBIOS RM ?",
+     "checks": "Le recruteur vérifie votre méthode et votre honnêteté sur EBIOS RM.",
+     "answer": "Je pars toujours de ce qu'il faut **protéger**. J'identifie d'abord les actifs importants. Ensuite, je cherche les menaces et les failles possibles. Puis j'estime la **probabilité** et l'**impact** de chaque risque. Enfin, on décide : réduire, accepter, transférer ou éviter.\n\nDans notre projet de recherche, en équipe, nous avons fait une analyse de risques avant de comparer quatre solutions de gestion des accès.\n\nPour **EBIOS RM**, la méthode de l'ANSSI, je connais la démarche et ses cinq ateliers grâce à mes cours. Je ne l'ai pas conduite sur une vraie mission. Je suis prêt à l'apprendre en mission, avec un consultant expérimenté.",
+     "tip": "Ne prétendez jamais avoir pratiqué EBIOS RM : un consultant expert le détecterait en deux questions."
+    },
+    {
+     "question": "Quelle est la différence entre IAM, IGA et PAM ?",
+     "checks": "Le recruteur vérifie que vous maîtrisez le thème identités, central dans l'offre, et que vous situez vos limites.",
+     "answer": "L'**IAM** gère les identités et leurs accès : qui est qui, et à quoi chacun a droit. L'**IGA** ajoute la gouvernance : arrivées, changements de poste, départs et revues de droits.\n\nLe **PAM** protège les comptes à privilèges, ceux des administrateurs. Il utilise un coffre-fort de mots de passe, l'enregistrement des sessions et des accès limités dans le temps.\n\nDans notre projet de recherche, ma partie portait sur la fédération SSO et la création automatique des comptes. Pour le PAM, je n'ai que des notions : une politique d'accès et un comparatif de CyberArk et BeyondTrust, sans mise en production.\n\nC'est un domaine qui m'attire beaucoup, car votre offre cite l'IAM et l'IGA.",
+     "tip": "Terminez sur votre intérêt pour les identités : c'est votre point fort, mettez-le en avant."
+    },
+    {
+     "question": "Pouvez-vous expliquer le SSO, SAML et OpenID Connect ?",
+     "checks": "Le recruteur vérifie que votre expérience technique est réelle, avec des mots simples.",
+     "answer": "Le **SSO** permet de se connecter une seule fois pour accéder à plusieurs applications. **SAML** et **OpenID Connect** sont deux protocoles pour le faire.\n\nSAML utilise du XML et reste très répandu en entreprise. OpenID Connect s'appuie sur OAuth 2.0, utilise du JSON et convient mieux aux applications modernes et mobiles.\n\nConcrètement, dans ma partie du projet de recherche, j'ai relié Entra ID à GitLab en SAML 2.0. Entra ID joue le rôle de fournisseur d'identité. C'était une maquette. Le point clé, c'est la **signature** de l'assertion : l'application doit toujours la vérifier.\n\nSi vous le souhaitez, je peux vous dérouler le flux en six étapes.",
+     "tip": "Proposez le déroulé en six étapes sans le lancer : le recruteur choisit, et vous gardez le contrôle du temps."
+    },
+    {
+     "question": "Pourquoi le MFA est-il important, et quelles sont ses limites ?",
+     "checks": "Le recruteur vérifie votre esprit critique et votre honnêteté : MFA recommandé, jamais déployé.",
+     "answer": "Le **MFA** ajoute un second facteur au mot de passe, par exemple une application ou une clé physique. Même si le mot de passe est volé, l'attaquant est bloqué.\n\nIl a pourtant des limites. Le phishing peut voler un code temporaire. On peut aussi fatiguer l'utilisateur avec des notifications répétées. Et l'**authentification héritée**, qui ne gère pas le MFA, permet de le contourner.\n\nChez Tanger Alliance, je l'ai recommandé dans l'audit, mais je ne l'ai pas déployé. Dans notre projet de recherche, j'ai travaillé sur le blocage de l'authentification héritée, sur une maquette.\n\nLe message pour un client : le MFA est indispensable, mais il doit être bien déployé et accompagné.",
+     "tip": "Citez toujours la limite après l'avantage : cela montre un regard de conseil, pas un discours de vendeur."
+    },
+    {
+     "question": "Le Zero Trust, en quelques mots ?",
+     "checks": "Le recruteur vérifie que vous expliquez un concept à la mode sans jargon.",
+     "answer": "Le **Zero Trust**, c'est ne faire confiance à personne par défaut, ni à l'utilisateur, ni à l'appareil, ni au réseau. Chaque accès est vérifié à chaque fois, avec le **minimum de droits** nécessaire.\n\nConcrètement, cela passe par une authentification forte, des accès conditionnels et de la segmentation. J'ai retrouvé cette logique dans mon réseau d'entreprise segmenté, avec un refus par défaut et une matrice de flux.\n\nJe sais aussi que c'est un chemin progressif, pas un produit à acheter. Je vois que Wavestone cite le Zero Trust parmi ses services cyber, et j'aimerais apprendre à l'expliquer à un client.",
+     "tip": "Deux phrases suffisent pour la définition. Si le recruteur veut creuser, il vous relancera."
+    },
+    {
+     "question": "Pouvez-vous me parler d'une attaque Active Directory et de la façon de s'en protéger ?",
+     "checks": "Le recruteur vérifie que votre pratique technique est réelle, que vous savez l'expliquer simplement et que vous pensez aussi défense.",
+     "answer": "Je peux vous parler du **Kerberoasting**, que nous avons rejoué dans notre labo Active Directory, en binôme. Un attaquant qui possède déjà un compte du domaine demande un ticket pour un compte de service. Ce ticket est chiffré avec le mot de passe de ce compte. L'attaquant le casse ensuite hors ligne.\n\nPour s'en protéger, on met des mots de passe très longs sur les comptes de service. On évite aussi l'ancien chiffrement RC4. Dans notre labo, nous avons ensuite remédié avec un modèle d'administration en **tiers** et des GPO.\n\nC'est un bon exemple de ce que j'ai pratiqué côté attaque et côté défense.",
+     "tip": "Nommez toujours le travail en binôme : le recruteur apprécie la précision sur votre part réelle."
+    },
+    {
+     "question": "À quoi servent un SIEM, un EDR, un XDR et un SOAR ?",
+     "checks": "Le recruteur vérifie que vous comprenez le principe, sans que vous prétendiez avoir exploité ces outils.",
+     "answer": "Le **SIEM** collecte et analyse les journaux du système d'information pour repérer les anomalies. L'**EDR** surveille les postes et les serveurs, et peut isoler une machine infectée. L'XDR étend cette vue au réseau et au cloud. Le **SOAR** automatise les réponses, par exemple bloquer un compte ou ouvrir un ticket.\n\nJe n'en ai pas exploité en production. En revanche, j'ai fait de l'analyse de journaux sur Hack The Box. J'y ai mené des enquêtes forensiques de type Sherlock, avec mes propres outils Python.\n\nJe sais donc ce qu'on cherche dans les journaux, et j'apprendrais vite les outils.",
+     "tip": "Placez les quatre acronymes dans l'ordre de la question : cela montre de la rigueur et facilite l'écoute."
+    },
+    {
+     "question": "Comment aideriez-vous un client à choisir une solution de sécurité ?",
+     "checks": "Le recruteur vérifie votre démarche de conseil : besoin d'abord, critères, test, recommandation. Cela correspond à une mission de l'offre.",
+     "answer": "Je commencerais par le **besoin** du client, pas par les produits. Ensuite, nous définirions des **critères** : fonctionnalités, intégration, coût, support, souveraineté.\n\nPuis on lance un appel d'offres, on compare les réponses et on teste les meilleures solutions sur un **POC**, c'est-à-dire un essai concret.\n\nJe n'ai pas mené d'appel d'offres. Mais dans notre projet de recherche, en équipe, nous avons comparé quatre solutions : Entra ID, Okta, BeyondTrust et CyberArk. Nous suivions un cahier des charges et une analyse de risques.\n\nJ'ai vu que Wavestone publie un Radar des startups cyber. Il aide justement à s'y retrouver dans l'offre.",
+     "tip": "Parlez du besoin avant de parler d'outils : c'est le réflexe qui distingue un consultant d'un technicien."
+    },
+    {
+     "question": "Que savez-vous de NIS2 et de DORA ?",
+     "checks": "Le recruteur vérifie votre culture réglementaire et votre honnêteté : cadre connu, aucune pratique.",
+     "answer": "**NIS2** est une directive européenne qui renforce la cybersécurité d'un grand nombre d'entités, dans de nombreux secteurs. Elle impose de gérer les risques et de notifier les incidents. Elle engage aussi la responsabilité des dirigeants.\n\n**DORA** est un règlement européen sur la résilience numérique du secteur financier. Il fixe des exigences sur les tests, les incidents et les prestataires.\n\nJe n'ai jamais appliqué ces textes en mission. J'en connais le cadre par mes cours. J'ai vu que Wavestone a appuyé le MEDEF sur une enquête qui aborde NIS2.\n\nCe que j'en retiens : pour un client, la vraie question est souvent de savoir par où commencer.",
+     "tip": "Le projet de loi français qui transpose NIS2 était annoncé en séance le 7 octobre 2026 : regardez l'actualité le matin même. Ne citez ni date ni article si vous n'êtes pas sûr."
+    },
+    {
+     "question": "Quelle est la différence entre un PCA et un PRA, et comment résister à un rançongiciel ?",
+     "checks": "Le recruteur vérifie que vous comprenez la résilience, un thème de l'offre, sans prétendre avoir rédigé de plan.",
+     "answer": "Le **PCA** vise à continuer l'activité pendant une crise. Le **PRA** vise à la redémarrer après un arrêt.\n\nFace à un rançongiciel, la résilience repose sur des **sauvegardes** isolées et testées. Elle repose aussi sur la segmentation et sur des exercices de crise. Une sauvegarde jamais restaurée n'est pas une vraie sauvegarde.\n\nJe n'ai pas rédigé de PCA ni de PRA. Chez Tanger Alliance, j'ai en revanche proposé une feuille de route en quatre phases, avec des priorités claires.\n\nJe retiens que la résilience se prépare avant la crise. C'est un thème de votre offre que j'aimerais approfondir.",
+     "tip": "La phrase sur la sauvegarde jamais restaurée est facile à retenir et marque les esprits."
+    },
+    {
+     "question": "Quelle est la différence entre la sécurité OT et la sécurité IT ?",
+     "checks": "Le recruteur vérifie que vous comprenez la logique industrielle, sans prétendre l'avoir pratiquée.",
+     "answer": "L'IT traite surtout des données. L'**OT** pilote des procédés physiques, comme des machines ou des chaînes de production.\n\nEn IT, on protège souvent d'abord la confidentialité. En OT, la priorité est la **disponibilité** et la sécurité des personnes. On ne peut pas toujours appliquer un correctif ou redémarrer un automate. Beaucoup d'équipements sont anciens.\n\nJe n'ai pas travaillé sur des systèmes industriels. Mon réseau d'entreprise segmenté m'a appris la logique de **zones**, qui est centrale en OT. Il avait des zones de confiance et une administration hors bande.\n\nVotre offre cite l'IT et l'OT, et c'est un domaine que je veux apprendre.",
+     "tip": "Gardez le contraste « confidentialité en IT, disponibilité en OT » : c'est l'idée que tout recruteur attend."
+    },
+    {
+     "question": "Que signifie la souveraineté numérique, et quels sont les risques de dépendance ?",
+     "checks": "Le recruteur vérifie que vous maîtrisez un thème clé de l'offre et que vous savez le relier à un client.",
+     "answer": "La **souveraineté numérique**, c'est garder la maîtrise de ses données et de ses outils. Le risque, c'est la **dépendance** à un fournisseur ou à un pays, pour le cloud ou les logiciels.\n\nConcrètement, on cartographie les dépendances, on mesure l'impact d'une rupture et on prévoit des solutions de repli.\n\nDans notre projet de recherche, la politique d'accès devait respecter le RGPD. Elle devait aussi respecter les règles sur l'hébergement des données de santé. Je sais aussi que le MEDEF a lancé une enquête avec l'appui de Wavestone. Elle porte sur la résilience numérique et la souveraineté.\n\nJ'aimerais travailler sur la quantification de ces risques.",
+     "tip": "Reliez toujours la souveraineté à un risque métier concret : l'arrêt d'un fournisseur, par exemple."
+    },
+    {
+     "question": "Quels sont les risques et les usages de l'IA en cybersécurité, notamment les agents IA ?",
+     "checks": "Le recruteur vérifie que vous avez un point de vue personnel sur le sujet phare du plan stratégique et de l'offre.",
+     "answer": "L'IA est à la fois un **risque** et un **outil**. Côté risques, il y a les fuites de données et les attaques sur les modèles. Il y a surtout les agents IA, qui agissent avec des droits. Côté usages, elle aide à détecter et à trier les alertes.\n\nDans notre projet de recherche, j'ai traité la gouvernance des comptes techniques des agents IA. Concrètement : un propriétaire humain, des droits minimaux, un contrôle d'accès par attributs et des journaux. C'était une maquette, pas de la production.\n\nJ'ai vu que Wavestone fait de l'IA un axe majeur de son plan Lead the shift, avec déjà 17 % du chiffre d'affaires. Cela rejoint mon intérêt pour le sujet.",
+     "tip": "Séparez bien « ma partie » de « l'équipe » : vous avez traité les identités des agents, pas tout le projet."
+    },
+    {
+     "question": "Une cyberattaque ou une actualité cyber vous a-t-elle marqué ?",
+     "checks": "Le recruteur vérifie votre curiosité et votre veille personnelle.",
+     "answer": "Oui, l'attaque contre **Marks & Spencer**, au Royaume-Uni, en avril 2025. Les attaquants sont passés par l'**usurpation d'identité**, en trompant des personnes chez un prestataire, plutôt que par une faille technique. Le distributeur a dû suspendre ses ventes en ligne pendant plusieurs semaines.\n\nCe qui m'a marqué, c'est que tout part d'une question d'**identité** : qui a le droit de réinitialiser un mot de passe, et comment on le vérifie. C'est exactement le thème de mon projet de recherche.\n\nCe que j'en retiens : la sécurité des accès dépend autant des processus et des prestataires que de la technique.",
+     "tip": "Relisez un article sur cette attaque ce soir. Si vous avez suivi un événement plus récent, utilisez-le avec la même structure : les faits, le lien avec vous, la leçon."
+    }
+   ]
+  },
+  {
+   "id": "cas",
+   "title": "Mises en situation / études de cas conseil",
+   "goal": "Voir votre démarche à voix haute : clarifier, structurer, prioriser, conclure, avec honnêteté sur vos limites.",
+   "questions": [
+    {
+     "question": "Un client industriel de la région veut savoir s'il est bien protégé. Par où commencez-vous ?",
+     "checks": "Le recruteur vérifie que vous clarifiez avant de répondre, que vous structurez et que vous concluez.",
+     "answer": "Avant de répondre, je clarifierais ce que « bien protégé » veut dire pour ce client. Je poserais des questions : quelles sont ses **activités critiques**, ses systèmes informatiques et industriels, ses incidents passés, ses obligations comme NIS2.\n\nEnsuite, je structurerais en trois blocs : la gouvernance, les mesures techniques et la capacité à réagir. Je ferais un état des lieux rapide de la **maturité**, en m'appuyant sur l'ISO 27002, comme chez Tanger Alliance.\n\nPuis je prioriserais selon l'impact et l'effort, avec des gains rapides et des chantiers de fond. Je finirais par une synthèse claire et les prochaines étapes.\n\nMon hypothèse de départ : le lien entre le réseau de bureau et l'atelier est le point faible. Je la vérifierais avec des données.",
+     "tip": "Dites « j'aimerais prendre quelques secondes pour structurer ma réponse » : c'est normal en conseil et cela vous donne du temps."
+    },
+    {
+     "question": "Une PME veut choisir une solution IAM. Quelle est votre démarche ?",
+     "checks": "Le recruteur vérifie votre méthode de comparaison de solutions, sans que vous prétendiez avoir mené un appel d'offres.",
+     "answer": "Je commencerais par comprendre le **besoin** : combien d'utilisateurs, quelles applications, quelles contraintes réglementaires, quel budget.\n\nEnsuite, je définirais des **critères pondérés** : sécurité, simplicité, intégration, coût et support. Je comparerais quelques solutions, puis je testerais les deux meilleures sur un petit périmètre.\n\nC'est la démarche de mon projet de recherche : pour une PME du secteur médical, nous avons comparé quatre solutions, avec une analyse de risques.\n\nPour une PME, je privilégierais souvent la simplicité et un déploiement progressif. Je finirais par une recommandation argumentée et un plan en étapes.\n\nJe n'ai jamais mené d'appel d'offres réel. Je ferais relire mes critères par un consultant plus expérimenté.",
+     "tip": "Annoncez votre plan en une phrase au début : « d'abord le besoin, ensuite les critères, enfin un test ». C'est la posture conseil."
+    },
+    {
+     "question": "Un client vient de subir un rançongiciel. Quelles sont vos priorités dans les premières heures, en tant que consultant ?",
+     "checks": "Le recruteur vérifie que vous gardez votre place de junior, que vous priorisez et que vous connaissez les réflexes de crise.",
+     "answer": "Je précise d'abord que je suis consultant : je n'agis pas seul, j'appuie la **cellule de crise**.\n\nPremière priorité, limiter les dégâts : on isole les systèmes touchés et on garde les preuves. Deuxième priorité, la gouvernance : qui décide, qui communique, qui prévient les autorités et l'assureur. Troisième priorité, comprendre : quelles données, quels systèmes, quelle étendue.\n\nJe vérifierais aussi que les **sauvegardes** sont intactes avant toute restauration. Je tiendrais un journal des décisions et préparerais des synthèses claires pour la direction.\n\nJe n'ai pas géré d'incident réel. Je m'appuierais sur des équipes de réponse à incident, comme le CERT-W de Wavestone.",
+     "tip": "Annoncez trois priorités numérotées à voix haute : « un, deux, trois ». C'est simple à suivre et très apprécié."
+    },
+    {
+     "question": "Vous devez restituer un audit à un comité de direction non technique. Comment faites-vous ?",
+     "checks": "Le recruteur vérifie votre capacité à adapter le message à des dirigeants : conclusion d'abord, sans jargon.",
+     "answer": "Je commencerais par la **conclusion** : la situation, trois messages clés et les décisions à prendre. Les dirigeants n'ont pas besoin du détail technique. Ils veulent connaître le risque pour l'activité, le coût et ce qu'on leur demande.\n\nJ'utiliserais des mots simples et des visuels, comme une **feuille de route** en phases. Je garderais le détail en annexe pour les questions.\n\nChez Tanger Alliance, j'ai restitué mon rapport à la DSI, avec quinze recommandations priorisées et une feuille de route sur douze mois. Ce n'était pas un comité de direction, mais c'était déjà un public non expert.\n\nCe que j'en retiens : une priorité claire vaut mieux qu'une longue liste.",
+     "tip": "Commencez par « en résumé » : conclusion d'abord, détails ensuite. C'est ce que les dirigeants et les consultants attendent."
+    },
+    {
+     "question": "Le client n'est pas d'accord avec vos recommandations. Que faites-vous ?",
+     "checks": "Le recruteur vérifie votre écoute, votre sens du dialogue et votre humilité.",
+     "answer": "Je commencerais par **écouter**. Je demanderais pourquoi il n'est pas d'accord. Souvent, il y a une contrainte que je ne connais pas : le budget, l'organisation, le calendrier.\n\nEnsuite, je rappellerais les faits qui fondent ma recommandation et le **risque** si on ne fait rien. Je proposerais des alternatives, comme une version par étapes ou une mesure intermédiaire.\n\nSi le désaccord persiste, j'en parlerais à mon encadrant, car la décision se prend en équipe. Le client reste décideur, mais il doit décider en connaissance du risque.\n\nJe n'ai pas vécu cette situation avec un client. Chez Tanger Alliance, j'ai séparé les gains rapides des chantiers de fond, pour offrir des options. Et j'accepte de revoir ma position face à de bons arguments.",
+     "tip": "Évitez « j'ai raison » : parlez de faits, de risques et d'options. Le conseil est un dialogue."
+    },
+    {
+     "question": "En réunion, le client vous pose une question dont vous n'avez pas la réponse. Que faites-vous ?",
+     "checks": "Le recruteur vérifie votre honnêteté et votre réflexe de ne pas inventer devant un client.",
+     "answer": "Je ne devine pas. Je réponds honnêtement : **je n'ai pas la réponse précise, mais je vais la chercher**.\n\nJe note la question et je m'engage sur un délai, par exemple le lendemain. Si je peux, je donne ce que je sais avec certitude, sans extrapoler.\n\nPuis je demande de l'aide à un collègue plus expérimenté, ou je vérifie dans des sources fiables, comme les guides de l'ANSSI. Enfin, je reviens vers le client comme promis. Cela renforce la **confiance**.\n\nJe fais déjà cela en autoformation : quand je ne connais pas un sujet, je lis la documentation et je teste en labo.",
+     "tip": "Prenez deux ou trois secondes de silence avant de répondre : une pause calme vaut mieux qu'un « euh »."
+    },
+    {
+     "question": "Vous avez beaucoup de recommandations et peu de moyens. Comment priorisez-vous ?",
+     "checks": "Le recruteur vérifie que vous avez des critères clairs et que vous osez trancher.",
+     "answer": "Je classe d'abord chaque action selon trois critères : l'**impact** sur le risque, l'**effort** nécessaire et les dépendances avec les autres actions. Ensuite, je sépare les gains rapides des chantiers de fond.\n\nChez Tanger Alliance, j'ai fait cela avec quinze recommandations. Les gains rapides pouvaient démarrer tout de suite. Les chantiers structurants venaient plus tard dans la **feuille de route** de douze mois, découpée en quatre phases.\n\nPuis je validerais avec le client, car lui connaît ses contraintes de budget et de calendrier.\n\nCe que j'en retiens : quand tout semble urgent, il faut oser dire ce qui peut attendre.",
+     "tip": "Citez vos trois critères dans l'ordre : impact, effort, dépendances. Cela donne une structure à votre réponse."
+    },
+    {
+     "question": "Quel sujet de stage vous attire, et pouvez-vous le présenter en deux minutes ?",
+     "checks": "Le recruteur vérifie que vous savez présenter un sujet de façon structurée, avec une recommandation, comme dans une présentation de fin d'entretien.",
+     "answer": "Je choisirais le sujet sur l'IA et la cybersécurité : quels seront les **agents** de demain ? Le problème est simple. Un agent IA agit avec des droits, parfois sans humain derrière. Il faut donc savoir qui il est, ce qu'il peut faire et qui en répond.\n\nDans mon projet de recherche, j'ai traité cette partie sur une maquette : un propriétaire humain, des droits minimaux, un contrôle d'accès par attributs et des journaux.\n\nPour le stage, je comparerais les approches possibles, puis je proposerais une **recommandation** claire avec les prochaines étapes. Je commencerais par une veille, car le sujet évolue vite.\n\nCela relie mon travail sur les identités à l'IA, un axe important de votre plan Lead the shift.",
+     "tip": "Préparez ce mini-exposé à voix haute ce soir : problème, approche, recommandation. Un associé peut vous le demander."
+    }
+   ]
+  },
+  {
+   "id": "anglais",
+   "title": "Questions en anglais",
+   "goal": "Vérifier que vous parlez un anglais clair, structuré et naturel, avec les mêmes messages que le français.",
+   "questions": [
+    {
+     "question": "Could you introduce yourself?",
+     "checks": "Le recruteur vérifie votre niveau d'anglais oral et la clarté de votre fil : passé, présent, projet.",
+     "answer": "I'm Mohamed, a second-year Master's student in reliability and computer security at Aix-Marseille University. The programme is labelled SecNumedu by the French national cybersecurity agency.\n\nI work around three areas. First, **audit**. During my internship at Tanger Alliance, a container terminal operator, I analysed security policies against ISO 27001 and 27002. I proposed fifteen prioritised recommendations. Second, **identity**. In a team research project, I worked on single sign-on, automatic account provisioning and the identities of AI agents. Third, **penetration testing**. On Hack The Box, as of September 27th, 2026, I have solved 36 machines and five Fortresses. I also built and attacked an Active Directory lab with a partner.\n\nI'm looking for a six-month internship starting in **April 2027**. I'd like to start my consulting career in Marseille, with a focus on identity and AI.",
+     "tip": "Dites les trois axes en comptant sur vos doigts : « first, second, third ». C'est clair et facile à suivre."
+    },
+    {
+     "question": "Why consulting, and why Wavestone?",
+     "checks": "Le recruteur vérifie que votre motivation est précise et pas générique.",
+     "answer": "I like varied subjects and working with different clients, and **consulting** offers exactly that. My research project already felt like a small consulting mission: we wrote requirements, compared four solutions and built a prototype.\n\nWhy **Wavestone**? First, your cybersecurity offer covers identity, resilience and AI, and I'm drawn to identity and AI. Second, I read about your plan, Lead the shift, where AI is already a significant share of revenue. Third, I live in Marseille, and your offer says interns get responsibility quickly in a team of about fifty consultants.\n\nFinally, your values, Energetic, Responsible, Together, match how I like to work in a team.",
+     "tip": "Citez au moins deux éléments précis sur Wavestone : un plan, une valeur, un sujet de l'offre. Cela prouve que vous avez fait vos devoirs."
+    },
+    {
+     "question": "Tell me about a project you are proud of.",
+     "checks": "Le recruteur vérifie votre capacité à raconter un exemple concret : situation, action, résultat, enseignement.",
+     "answer": "I'm proud of my internship at **Tanger Alliance**, a container terminal operator. The company wanted to know how mature its security policies were.\n\nMy task was to analyse three policies against ISO 27001 and 27002. I scored each one with a maturity model and wrote fifteen recommendations. To prioritise them, I looked at **impact**, effort and dependencies, and I separated quick wins from long-term projects.\n\nI then built a twelve-month **roadmap** and presented it to the IT department. The audit also showed a lack of awareness, so I developed a training platform on my own.\n\nWhat I learned: a good recommendation must be realistic, not only correct.",
+     "tip": "Finissez toujours par « what I learned » : c'est la phrase que les recruteurs retiennent."
+    },
+    {
+     "question": "What is your main weakness?",
+     "checks": "Le recruteur vérifie votre lucidité et votre capacité à progresser, pas un faux défaut.",
+     "answer": "My main weakness is my **limited experience** in a company. I have done one two-month internship, and I have not worked with tools like SIEM or EDR, or with industrial systems.\n\nI don't hide it. To improve, I use study sheets, labs and Hack The Box, where I did forensic investigations with my own **Python** tools. I try to learn from concrete projects, not only from reading.\n\nIn an internship, I would ask questions early and ask for feedback often. I see this weakness as something a six-month internship at Wavestone could turn into a real **strength**.",
+     "tip": "Ne dites jamais « perfectionniste » : choisissez un vrai défaut, puis montrez ce que vous faites pour le corriger."
+    },
+    {
+     "question": "How would you explain multi-factor authentication to a non-technical manager?",
+     "checks": "Le recruteur vérifie que vous savez vulgariser un concept en anglais, sans jargon, et rester honnête sur votre expérience.",
+     "answer": "Imagine your front door has a lock. A password is that lock. If someone copies your key, they can walk in. **Multi-factor authentication** adds a second check, like a code on your phone. So a stolen password alone is not enough.\n\nIt is not perfect, because phishing can still trick people, so we also train users. I recommended MFA in my audit at Tanger Alliance, but I have not deployed it myself.\n\nFor a manager, I would say: it is a **simple measure** with a big effect on risk, and a good first step.",
+     "tip": "Utilisez une image du quotidien, comme la serrure, puis dites la conclusion en une phrase : c'est la clé de la vulgarisation."
+    }
+   ]
+  },
+  {
+   "id": "pieges",
+   "title": "Questions pièges et déstabilisantes",
+   "goal": "Vérifier votre sincérité, votre recul sur vos limites et votre sang-froid quand la question est inconfortable.",
+   "questions": [
+    {
+     "question": "Quelles sont vos trois principales qualités ?",
+     "checks": "Le recruteur vérifie que chaque qualité est prouvée par un fait, pas seulement annoncée.",
+     "answer": "Je dirais **persévérance**, **rigueur** et **esprit d'équipe**. La persévérance d'abord. Sur Hack The Box, au 27 septembre 2026, j'avais résolu 36 machines et 5 Fortresses. Chaque machine oblige à recommencer et à changer d'approche.\n\nPour la rigueur, chez Tanger Alliance, j'ai classé quinze recommandations par impact, effort et dépendances. Pour l'équipe, j'ai travaillé en groupe sur mon projet de recherche et en binôme sur un labo. J'y ai appris à partager le travail et à documenter. En conseil, ces trois qualités servent chaque jour.",
+     "tip": "Annoncez les trois qualités en une phrase, puis donnez une preuve courte pour chacune."
+    },
+    {
+     "question": "Quels sont vos défauts ou vos points faibles ?",
+     "checks": "Le recruteur cherche un défaut réel, lié au travail, et la preuve que vous le corrigez.",
+     "answer": "Mon vrai point faible, c'est mon **expérience limitée en entreprise**. J'ai fait un seul stage, de deux mois, chez Tanger Alliance. Et je n'ai pas encore travaillé avec des outils de détection comme un SIEM, ni sur des systèmes industriels.\n\nJe ne le cache pas, et j'agis pour progresser. Je fais des **fiches de révision** sur les sujets de votre offre. Je pratique en labo et sur Hack The Box, où j'ai mené des enquêtes forensiques avec mes propres outils Python.\n\nC'est aussi pour cela que je cherche un stage de six mois : pour **apprendre au contact** de consultants expérimentés.",
+     "tip": "Pas de faux défaut comme « perfectionniste ». L'histoire du mot de passe oublié dans le code est réservée à la question sur l'erreur."
+    },
+    {
+     "question": "Vous n'avez jamais utilisé de SIEM ni fait d'OT. Pourquoi vous prendre ?",
+     "checks": "Le recruteur teste votre honnêteté sur une lacune de l'offre et votre capacité à apprendre vite.",
+     "answer": "Vous avez raison, je n'ai jamais exploité de **SIEM** en production, ni travaillé sur des systèmes industriels. Un SIEM, c'est l'outil qui rassemble les journaux de sécurité pour repérer les attaques.\n\nDe proche, j'ai analysé des journaux dans des enquêtes Sherlock sur Hack The Box, avec mes propres outils Python. Côté industriel, mon réseau d'entreprise segmenté m'a appris la logique de **zones** et de flux autorisés. Ce sont des bases, pas une expertise. Je les renforce avec des fiches de révision, et je veux **apprendre en mission**. C'est justement ce que je viens chercher.",
+     "tip": "Ne prétendez jamais avoir touché un SIEM ou de l'industriel : dites ce que vous avez fait de proche, puis votre plan pour apprendre."
+    },
+    {
+     "question": "Votre profil est plutôt technique, avec du pentest et Hack The Box. Pourquoi le conseil ?",
+     "checks": "Le recruteur vérifie que vous avez compris le métier de consultant et que vous ne cherchez pas un poste d'expert pur.",
+     "answer": "Mon profil est technique, c'est vrai, mais je veux **le conseil** justement pour cela. La technique m'a appris comment une attaque fonctionne. Le conseil aide un client à décider quoi faire.\n\nConcrètement, chez Tanger Alliance, j'ai restitué une feuille de route à la direction informatique. Et dans mon projet de recherche, nous avons comparé quatre solutions d'identité pour répondre à un cahier des charges. Ce travail de **cadrage et de recommandation** m'a donné envie d'aller plus loin. Chez Wavestone, je garderais un ancrage technique, tout en apprenant à **convaincre** et à restituer.",
+     "tip": "Mettez en avant la restitution à la direction informatique : c'est votre meilleure preuve de goût pour le conseil."
+    },
+    {
+     "question": "Hack The Box, ce n'est qu'un jeu : en quoi cela prouve-t-il quelque chose ?",
+     "checks": "Le recruteur teste si vous savez relativiser votre pratique et en tirer une méthode transférable.",
+     "answer": "Vous avez raison sur un point : Hack The Box est un **environnement d'entraînement**, pas une mission client. Je ne le présente pas comme une expérience professionnelle.\n\nMais il m'a donné une **méthode** : reconnaissance, énumération, accès, élévation de privilèges, puis rapport. Je travaille surtout sur Active Directory. Dans mon labo en binôme, nous avons aussi corrigé les failles, avec des règles de groupe et un modèle d'administration en niveaux. Pour le conseil, cela me sert : comprendre l'attaque pour mieux recommander des **parades**.",
+     "tip": "Ne parlez jamais de pentest pour un client : dites entraînement, méthode, puis lien avec la recommandation."
+    },
+    {
+     "question": "Avez-vous d'autres candidatures en cours ? Où en êtes-vous ?",
+     "checks": "Le recruteur évalue votre transparence, votre loyauté et votre intérêt réel pour Wavestone.",
+     "answer": "Oui, comme beaucoup d'étudiants, j'ai postulé à plusieurs endroits. Mais **Wavestone est une de mes priorités**.\n\nLe conseil en cybersécurité, à Marseille, avec des sujets comme les identités et la résilience, correspond à mon projet. C'est pour cela que je me prépare sérieusement à cet entretien. Je resterai **transparent** avec vous si ma situation évolue.",
+     "tip": "Ne citez aucun nom d'entreprise et ne dites jamais que vous hésitez."
+    },
+    {
+     "question": "Si vous aviez une autre offre demain, que feriez-vous ?",
+     "checks": "Le recruteur cherche de l'honnêteté sans pression ni bluff, et un vrai intérêt pour ce poste.",
+     "answer": "Je vous le dirais **honnêtement et rapidement**. Wavestone reste une de mes priorités, donc je ne vous laisserais pas dans le flou.\n\nConcrètement, je vous contacterais pour expliquer ma situation et demander où en est mon dossier. Je ne ferais pas de pression, mais je respecterais aussi la **date limite** de l'autre entreprise. Ce qui compte pour moi, c'est un stage en conseil cybersécurité, avec des missions variées et un bon **encadrement**. C'est ce que je cherche chez vous.",
+     "tip": "Ne promettez pas de refuser l'autre offre : engagez-vous seulement à rester transparent."
+    },
+    {
+     "question": "Qu'est-ce qui pourrait vous faire quitter un stage ?",
+     "checks": "Le recruteur évalue votre fiabilité et votre réaction face à une difficulté.",
+     "answer": "Honnêtement, je ne vois pas de raison de quitter un stage que j'ai choisi. Un stage de six mois sous convention, c'est un **engagement**.\n\nCe qui m'inquiéterait, c'est de **ne plus rien apprendre** ou de me retrouver sans encadrement. Dans ce cas, j'en parlerais d'abord à mon **tuteur**, pour trouver une solution ensemble. Je ne partirais pas sur un coup de tête. Avec des consultants expérimentés et des missions variées, j'imagine plutôt l'inverse chez vous, et j'ai surtout hâte d'apprendre.",
+     "tip": "Montrez que vous parleriez d'abord au tuteur : c'est la réponse qui rassure le plus."
+    },
+    {
+     "question": "Qu'est-ce que vous n'aimez pas faire ?",
+     "checks": "Le recruteur repère si votre réponse touche le cœur du métier de consultant.",
+     "answer": "Ce que j'aime le moins, c'est **travailler sans comprendre le but**. Quand je ne sais pas pourquoi je fais une tâche, j'ai du mal à bien la faire. Alors je pose la question, je reformule et je vérifie ce que l'équipe attend.\n\nJ'ai aussi du mal à laisser un travail **à moitié fini**. Chez Tanger Alliance, je suis allé jusqu'à une feuille de route complète, pas seulement une liste de constats. Dans le conseil, comprendre l'enjeu du client est au cœur du métier. Cela me convient donc bien.",
+     "tip": "Choisissez un point qui n'est pas au centre du poste : jamais la rédaction, le travail en équipe ou les déplacements."
+    },
+    {
+     "question": "Décrivez-vous en trois mots.",
+     "checks": "Le recruteur vérifie que vos trois mots sont cohérents avec vos preuves et avec les valeurs du cabinet.",
+     "answer": "Je dirais **curieux, déterminé et fiable**. Curieux, parce que j'apprends beaucoup seul, par exemple avec Hack The Box. Déterminé, parce que j'ai tenu ces défis jusqu'au rang **Pro Hacker**.\n\nFiable, parce que j'ai livré une feuille de route complète à la direction informatique de Tanger Alliance, en seulement deux mois de stage. Je retrouve aussi ces idées dans vos valeurs : Energetic, Responsible, Together. J'espère le montrer concrètement pendant ce stage, au sein d'une équipe de consultants.",
+     "tip": "Dites les trois mots d'abord, puis une preuve par mot : c'est court et structuré."
+    },
+    {
+     "question": "Que diraient vos professeurs ou vos camarades de vous ?",
+     "checks": "Le recruteur cherche une image extérieure cohérente avec ce que vous dites de vous.",
+     "answer": "Je ne peux pas parler à leur place, mais je pense qu'ils diraient que je suis **sérieux et autonome**. J'ai validé ma première année de master avec la mention Bien, avec 15,25 sur 20.\n\nEn binôme et en équipe, j'ai aussi cherché à bien partager le travail et à documenter ce que nous trouvions. Je crois qu'ils parleraient d'une personne **fiable**, qui va au bout de ce qu'elle commence. Je préfère vous donner des faits plutôt que des compliments. Si vous le souhaitez, je peux vous donner un exemple précis.",
+     "tip": "Si un professeur ou un camarade vous a déjà fait une remarque précise, citez-la : un vrai retour vaut mieux qu'une supposition."
+    },
+    {
+     "question": "Et si on vous pose une question à laquelle vous ne savez pas répondre ?",
+     "checks": "Le recruteur vérifie que vous ne bluffez pas et que vous savez raisonner et chercher quand vous ne savez pas.",
+     "answer": "Je vous dirais simplement : **je ne sais pas**. Ensuite, je vous montrerais ce que je sais de proche. Par exemple, sur une réglementation que je connais seulement dans son cadre général, j'expliquerais l'idée principale.\n\nPuis j'expliquerais **comment je chercherais** : les textes officiels, les guides de l'ANSSI et l'avis d'un collègue plus expérimenté. Je préfère cela à une réponse inventée, car en conseil, une erreur fait perdre la **confiance** du client. Je peux aussi vous revenir avec la réponse après l'entretien.",
+     "tip": "Prenez deux ou trois secondes de silence avant de répondre, puis dites calmement : je ne sais pas, voici ce que je sais."
+    }
+   ]
+  },
+  {
+   "id": "pratique",
+   "title": "Questions pratiques (celles qui éliminent)",
+   "goal": "Vérifier que votre disponibilité, votre statut et vos contraintes sont compatibles avec le stage, sans mauvaise surprise.",
+   "questions": [
+    {
+     "question": "Quand pouvez-vous commencer, et pour combien de temps ?",
+     "checks": "Le recruteur vérifie que vos dates collent au besoin et que vous êtes clair.",
+     "answer": "Je suis disponible à partir de **début avril 2027**, pour **six mois**. C'est le calendrier de mon master. Je confirme la date exacte avec mon responsable de M2.",
+     "tip": "Ne dites jamais février ou mars. Si on vous le fait remarquer : c'est le calendrier de mon master, début avril."
+    },
+    {
+     "question": "Avez-vous une convention de stage ?",
+     "checks": "Le recruteur vérifie que le stage est possible administrativement, sans blocage.",
+     "answer": "Oui, mon stage se fait sous **convention** avec **Aix-Marseille Université**. Dès que vous le souhaitez, je vous transmets les informations utiles pour la préparer avec vous.",
+     "tip": "Restez simple et factuel : la convention est signée par votre université, vous n'avez rien à expliquer de plus."
+    },
+    {
+     "question": "Quelle est votre situation administrative ? Pouvez-vous faire ce stage ?",
+     "checks": "Le recruteur vérifie que vous avez le droit de faire ce stage sur toute sa durée.",
+     "answer": "Je suis **étudiant international**, avec un **titre de séjour étudiant**. Mon stage se fait sous convention d'Aix-Marseille Université. Je vérifie que la date de fin de mon titre couvre bien toute la durée du stage.",
+     "tip": "Avant l'entretien, vérifiez la date de fin de votre titre : le stage doit être couvert jusqu'à fin septembre ou début octobre 2027, sinon prévenez tout de suite le service concerné de votre université."
+    },
+    {
+     "question": "Quelle gratification attendez-vous ?",
+     "checks": "Le recruteur teste votre réalisme et votre flexibilité, pas votre capacité à négocier.",
+     "answer": "Je me base sur votre **grille de gratification**. Je sais qu'il existe un **minimum légal**. Je suis ouvert à la discussion : ce n'est pas mon critère principal.",
+     "tip": "Ne donnez aucun chiffre au premier entretien. Si on insiste, répondez : le minimum légal me convient comme point de départ."
+    },
+    {
+     "question": "Des déplacements chez les clients sont possibles. Avez-vous un moyen de transport ?",
+     "checks": "Le recruteur vérifie que votre mobilité est compatible avec les missions chez les clients.",
+     "answer": "J'habite à **Marseille**. J'ai le permis, mais pas de voiture. Je me déplace en **transports en commun**, ce qui couvre bien Marseille et Aix. Pour un client plus éloigné, je m'organiserai à l'avance avec l'équipe, en train par exemple.",
+     "tip": "Dites-le sans gêne et enchaînez sur la solution : c'est la façon dont vous le dites qui rassure."
+    },
+    {
+     "question": "Quel est votre niveau d'anglais ?",
+     "checks": "Le recruteur vérifie que vous pourrez travailler avec des documents et des collègues en anglais, et un test est possible.",
+     "answer": "J'ai un niveau **C1** en anglais, que j'ai évalué moi-même. Je n'ai pas de score officiel à vous présenter. Je suis à l'aise pour lire et échanger, et je suis prêt à passer un **test d'anglais** si vous le souhaitez.",
+     "tip": "Soyez exact sur l'auto-évaluation, et ne dites pas bilingue : un test d'anglais est possible chez certains profils."
+    },
+    {
+     "question": "Quelles sont vos disponibilités pour la suite du processus ?",
+     "checks": "Le recruteur vérifie votre réactivité et votre motivation concrète.",
+     "answer": "Je suis **flexible** et je m'adapte à votre calendrier. Je peux vous proposer dès maintenant deux ou trois **créneaux précis**. Je vous les confirme ensuite par mail.",
+     "tip": "Préparez à l'avance deux ou trois créneaux réels dans votre agenda, en tenant compte de vos cours."
+    }
+   ]
+  },
+  {
+   "id": "vos-questions",
+   "title": "Vos questions au recruteur et la conclusion",
+   "goal": "Montrer votre curiosité, votre maturité et votre motivation, puis finir l'entretien sur une impression claire et positive.",
+   "questions": [
+    {
+     "question": "Pouvez-vous me décrire la suite du processus : combien d'entretiens, avec qui, et dans quel délai ?",
+     "checks": "Elle donne l'impression d'un candidat organisé qui anticipe.",
+     "answer": "Pour bien me préparer, pourriez-vous me décrire la **suite du processus** ? Combien d'entretiens, avec qui, et dans quel délai ? Y aura-t-il une **étude de cas** ou une présentation à préparer ?",
+     "tip": "Écoutez surtout s'il y a un cas ou une présentation, car des témoignages en rapportent, et notez la réponse devant le recruteur."
+    },
+    {
+     "question": "Comment sont encadrés les stagiaires au quotidien ?",
+     "checks": "Elle donne l'impression d'un futur stagiaire sérieux, qui veut progresser.",
+     "answer": "Comment sont **encadrés** les stagiaires au quotidien ? Y a-t-il un **tuteur désigné**, des points réguliers et des retours sur le travail ? C'est important pour moi, car je veux progresser vite.",
+     "tip": "Une réponse floue sur qui s'occupe du stagiaire est un mauvais signe : posez la question simplement, sans ton d'inquiétude."
+    },
+    {
+     "question": "Le stage porte-t-il sur un sujet défini, ou sur des missions auprès des clients ?",
+     "checks": "Elle donne l'impression que vous vous intéressez au contenu réel du stage.",
+     "answer": "Le stage porte-t-il sur un **sujet défini**, ou plutôt sur des missions auprès de clients ? J'ai vu les exemples de sujets de votre offre, comme les **agents IA**. Ce sont des thèmes qui m'intéressent. Où pourrais-je être le plus utile ?",
+     "tip": "Rebondissez sur l'un des sujets de l'offre, comme les agents IA ou la résilience, pour montrer que vous l'avez lue."
+    },
+    {
+     "question": "Comment est organisée l'équipe de Marseille, et avec qui travaillerais-je ?",
+     "checks": "Elle donne l'impression que vous vous projetez déjà dans le bureau.",
+     "answer": "Comment est organisée l'**équipe de Marseille**, et avec qui travaillerais-je ? Votre offre parle d'une cinquantaine de consultants, avec des missions en IT, industriel et cloud. J'aimerais comprendre comment les **missions** se répartissent.",
+     "tip": "Ne citez aucun client local : vous n'avez pas d'information fiable à ce sujet."
+    },
+    {
+     "question": "Selon vous, qu'est-ce qui fait qu'un stagiaire réussit chez Wavestone ?",
+     "checks": "Elle donne l'impression d'un candidat ambitieux et ouvert au feedback.",
+     "answer": "Selon vous, qu'est-ce qui fait qu'un stagiaire **réussit** chez Wavestone ? Je voudrais savoir sur quels **critères** je serais jugé, pour m'y préparer dès maintenant.",
+     "tip": "Notez les qualités citées et reprenez-en une dans votre conclusion : cela montre que vous écoutez."
+    },
+    {
+     "question": "Quelles sont les perspectives après le stage ?",
+     "checks": "Elle donne l'impression d'une envie de construire dans la durée, sans pression.",
+     "answer": "Quelles sont les **perspectives** après le stage ? Je ne demande pas de promesse. Je voudrais surtout comprendre comment se passent les **débuts de carrière** d'un consultant chez vous.",
+     "tip": "Ne demandez ni salaire ni taux d'embauche : posez la question sur le parcours, pas sur la garantie."
+    },
+    {
+     "question": "Avez-vous des réserves sur mon profil que je pourrais éclaircir maintenant ?",
+     "checks": "Elle montre que vous êtes ouvert au retour critique et que vous voulez progresser.",
+     "answer": "Avez-vous des **réserves** sur mon profil, ou des points que je pourrais éclaircir maintenant ? Votre **retour** m'aiderait à progresser, quelle que soit la suite.",
+     "tip": "Écoutez sans vous défendre, remerciez, puis répondez avec un fait précis en une ou deux phrases."
+    },
+    {
+     "question": "Conclure l'entretien",
+     "checks": "Le recruteur retient votre dernière phrase : remerciement, motivation, disponibilité et prochaines étapes.",
+     "answer": "Je vous remercie pour cet échange. Il m'a confirmé mon envie de rejoindre **Wavestone**, à **Marseille**. Ce stage correspond à ce que je cherche : du conseil, de la cybersécurité et des missions variées. Je suis disponible pour la suite, avec un début de stage en **avril 2027**. Pourriez-vous m'indiquer les prochaines étapes et le délai de réponse ? Merci encore pour votre temps.",
+     "tip": "Souriez, regardez le recruteur et ne rajoutez rien après la phrase finale : le dernier mot reste dans la mémoire."
+    }
+   ],
+   "checksLabel": "L'impression donnée :"
+  }
+ ],
+ "final": {
+  "title": "Fiche mémo — à relire 10 minutes avant",
+  "blocks": [
+   {
+    "title": "Mon fil en 5 mots-clés",
+    "items": [
+     "**M2 FSI** à Aix-Marseille, label SecNumedu",
+     "**Audit ISO 27001** chez Tanger Alliance : 3 politiques, 15 recommandations, feuille de route de 12 mois en 4 phases",
+     "**Identités** : SSO SAML, SCIM, agents IA (ma partie du projet de recherche, sur maquette)",
+     "**Hack The Box**, Active Directory : 36 machines et 5 Fortresses au 27 septembre 2026",
+     "Stage de **6 mois à partir d'avril 2027**"
+    ]
+   },
+   {
+    "title": "Mes histoires, prêtes à raconter",
+    "items": [
+     "**Difficulté, convaincre, délai serré** : la priorisation des 15 recommandations (impact, effort, dépendances)",
+     "**Initiative** : la plateforme de sensibilisation développée seul",
+     "**Erreur** : le mot de passe administrateur laissé dans le code, retiré et considéré comme compromis",
+     "**Équipe** : le lab Active Directory en binôme",
+     "**Apprendre vite** : les identités des agents IA"
+    ]
+   },
+   {
+    "title": "Ce que je ne prétends jamais avoir fait",
+    "items": [
+     "SIEM ou EDR en production, sécurité industrielle OT, PCA ou PRA rédigé",
+     "EBIOS RM conduit en mission, NIS2 ou DORA appliqués, appel d'offres réel",
+     "MFA déployé (je l'ai recommandé), test d'intrusion pour un client, PAM au-delà de notions"
+    ]
+   },
+   {
+    "title": "Phrases de secours",
+    "items": [
+     "« Puis-je prendre quelques secondes pour structurer ma réponse ? »",
+     "« Je ne l'ai pas pratiqué, mais voici ce que je sais, et comment je l'apprendrais. »",
+     "« Pouvez-vous préciser ce que vous entendez par… ? »"
+    ]
+   },
+   {
+    "title": "Pratique et mes questions",
+    "items": [
+     "Avril 2027, 6 mois · convention Aix-Marseille Université · titre de séjour étudiant (vérifier la date de fin) · gratification selon votre grille · pas de voiture, transports en commun",
+     "Mes questions : la suite du processus · l'encadrement des stagiaires · sujet défini ou missions clients"
+    ]
+   }
+  ]
+ }
+}
