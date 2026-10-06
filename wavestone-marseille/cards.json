@@ -1,0 +1,2239 @@
+{
+ "cards": [
+  {
+   "n": 1,
+   "section": "accueil",
+   "short": "Présentez-vous",
+   "start": "Mohamed Fhafah, étudiant en master 2 Fiabilité et Sécurité Informatique à Aix-Marseille Université, label ANSSI, j'habite Marseille.",
+   "keys": [
+    "Audit : Tanger Alliance, 3 politiques vs ISO → 15 recos → feuille de route 12 mois",
+    "Identités : projet de recherche en équipe, SSO + gestion auto des comptes",
+    "HTB : 36 machines, 5 Fortresses (27/09/2026)",
+    "Cherche : stage 6 mois dès avril 2027"
+   ],
+   "end": "Le conseil chez Wavestone Marseille, la bonne façon de débuter.",
+   "triggers": [
+    "parlez-moi de vous",
+    "présentez-vous",
+    "votre parcours",
+    "qui êtes-vous",
+    "racontez-moi votre parcours",
+    "vous en quelques mots"
+   ],
+   "star": true
+  },
+  {
+   "n": 2,
+   "section": "accueil",
+   "short": "Parcours en une minute",
+   "start": "Mon parcours est simple : licence d'informatique à Aix-Marseille, puis master Fiabilité et Sécurité Informatique.",
+   "keys": [
+    "Licence info 2022-2025, mention Assez Bien",
+    "M1 mention Bien, 15,25/20",
+    "2025 : stage 2 mois Tanger Alliance (terminal à conteneurs, Tanger Med)",
+    "2026 : projet recherche identités/accès, PME médicale ; HTB Active Directory",
+    "M2 : cloud, cryptographie, réseaux"
+   ],
+   "end": "Je cherche un premier stage en conseil.",
+   "triggers": [
+    "résumez votre parcours",
+    "en une minute",
+    "parcours en bref",
+    "synthèse de votre parcours",
+    "cursus",
+    "formation"
+   ],
+   "star": false
+  },
+  {
+   "n": 3,
+   "section": "accueil",
+   "short": "Comment connu Wavestone ?",
+   "start": "Je connaissais Wavestone de nom, comme un cabinet de conseil reconnu en cybersécurité.",
+   "keys": [
+    "Offre stage Marseille vue en septembre",
+    "Correspondait à ma recherche → j'ai postulé",
+    "Renseigné sur vos publications"
+   ],
+   "end": "",
+   "triggers": [
+    "comment avez-vous connu",
+    "comment avez-vous trouvé l'offre",
+    "d'où vient votre candidature",
+    "comment nous avez-vous trouvés",
+    "qui vous a parlé de nous"
+   ],
+   "star": true
+  },
+  {
+   "n": 4,
+   "section": "accueil",
+   "short": "Pourquoi la cybersécurité ?",
+   "start": "Parce que la cybersécurité demande à la fois de comprendre et de protéger.",
+   "keys": [
+    "Attaque : HTB, surtout Active Directory (annuaire des comptes)",
+    "Défense : lab en binôme, failles exploitées puis corrigées",
+    "Tanger Alliance : enjeu organisation, règles et recommandations"
+   ],
+   "end": "La sécurité est un sujet d'équipe, d'où le conseil.",
+   "triggers": [
+    "pourquoi la cyber",
+    "pourquoi la sécurité informatique",
+    "qu'est-ce qui vous attire en cybersécurité",
+    "votre déclic",
+    "pourquoi ce domaine",
+    "vocation"
+   ],
+   "star": true
+  },
+  {
+   "n": 5,
+   "section": "motivation",
+   "short": "Pourquoi Wavestone ?",
+   "start": "J'ai trois raisons : votre positionnement, le contenu de l'offre, et votre culture.",
+   "keys": [
+    "Positionnement : conseil + vraie cyber, du cadrage à la réalisation, bout en bout",
+    "Offre : aide au choix de solutions = mon projet, 4 solutions IAM comparées en équipe",
+    "Culture : Great Place To Work, stagiaires recommandent",
+    "Valeurs : Energetic, Responsible, Together"
+   ],
+   "end": "",
+   "triggers": [
+    "pourquoi wavestone",
+    "pourquoi nous",
+    "pourquoi notre cabinet",
+    "pourquoi avoir postulé chez nous",
+    "qu'est-ce qui vous attire chez nous",
+    "pourquoi pas un autre cabinet"
+   ],
+   "star": true
+  },
+  {
+   "n": 6,
+   "section": "motivation",
+   "short": "Pourquoi le conseil ?",
+   "start": "Le conseil me permet de voir beaucoup de sujets en peu de temps.",
+   "keys": [
+    "Entreprise : un seul environnement ; éditeur : un produit",
+    "Conseil : comparer des solutions, choisir pour le client",
+    "SOC : pas d'outil de supervision exploité en production, honnête",
+    "Projet recherche = mini-mission : cahier des charges, comparaison, maquette"
+   ],
+   "end": "Envie d'essayer ce métier.",
+   "triggers": [
+    "pourquoi le conseil",
+    "pourquoi pas une entreprise",
+    "pourquoi pas un éditeur",
+    "pourquoi pas un soc",
+    "conseil plutôt qu'industrie",
+    "pourquoi pas en interne"
+   ],
+   "star": true
+  },
+  {
+   "n": 7,
+   "section": "motivation",
+   "short": "Pourquoi ce stage ?",
+   "start": "Parce que ses thèmes recoupent mon profil, surtout la gestion des identités et des accès.",
+   "keys": [
+    "IAM = cœur de mon projet : SSO, création auto des comptes, identités des agents IA",
+    "Exemple de sujet de l'offre : agents de demain",
+    "Pas pratiqué : détection, sécurité industrielle → à apprendre"
+   ],
+   "end": "Creuser ce que je connais, découvrir ce que je ne connais pas.",
+   "triggers": [
+    "pourquoi ce stage",
+    "pourquoi cette offre",
+    "pourquoi ce poste",
+    "qu'est-ce qui vous plaît dans l'offre",
+    "pourquoi cette mission",
+    "ce sujet de stage"
+   ],
+   "star": true
+  },
+  {
+   "n": 8,
+   "section": "motivation",
+   "short": "Pourquoi Marseille ?",
+   "start": "Parce que j'habite à Marseille et que je veux y travailler.",
+   "keys": [
+    "Bureau : une cinquantaine de consultants, équipe régionale 270+ avec Lyon et Casablanca",
+    "Petite taille : responsabilités rapidement",
+    "Offre : IT, industriel, cloud, variété",
+    "Disponible dès avril 2027"
+   ],
+   "end": "Sur place = travail d'équipe facilité.",
+   "triggers": [
+    "pourquoi marseille",
+    "pourquoi cette ville",
+    "pourquoi pas paris",
+    "mobilité",
+    "déplacements",
+    "êtes-vous mobile",
+    "pourquoi le bureau de marseille"
+   ],
+   "star": true
+  },
+  {
+   "n": 9,
+   "section": "motivation",
+   "short": "Vos attentes du stage",
+   "start": "J'attends d'abord d'apprendre le métier de consultant.",
+   "keys": [
+    "Cadrer un besoin, structurer, restituer au client",
+    "Responsabilités concrètes, encadrement, projet de bout en bout",
+    "Progresser : détection, résilience (repartir après incident majeur)",
+    "J'apporte : rigueur, envie ; retours critiques bienvenus"
+   ],
+   "end": "",
+   "triggers": [
+    "qu'attendez-vous du stage",
+    "vos attentes",
+    "qu'espérez-vous apprendre",
+    "qu'est-ce que vous voulez en retirer",
+    "objectifs du stage"
+   ],
+   "star": false
+  },
+  {
+   "n": 10,
+   "section": "motivation",
+   "short": "Pourquoi vous choisir ?",
+   "start": "Je pense apporter trois choses : une base technique, une méthode de travail, de la curiosité.",
+   "keys": [
+    "Technique : identités, Active Directory, projets concrets",
+    "Méthode : Tanger Alliance, 15 recos priorisées → feuille de route, restituée à la DSI",
+    "Curiosité : HTB régulier hors cours",
+    "Pas d'expérience en cabinet, assumé"
+   ],
+   "end": "J'apprends vite, j'aime l'équipe, dispo avril 2027.",
+   "triggers": [
+    "pourquoi devrions-nous vous choisir",
+    "qu'apportez-vous",
+    "votre valeur ajoutée",
+    "pourquoi vous plutôt qu'un autre",
+    "vos atouts",
+    "qu'est-ce qui vous différencie"
+   ],
+   "star": true
+  },
+  {
+   "n": 11,
+   "section": "motivation",
+   "short": "Dans cinq ans ?",
+   "start": "Dans cinq ans, je me vois consultant confirmé en cybersécurité.",
+   "keys": [
+    "Consolider une expertise sur un axe",
+    "Attrait actuel : identités, IA appliquée à la cyber",
+    "Ouvert : le stage dira où je suis utile",
+    "Progresser : relation client, prise de parole"
+   ],
+   "end": "Quelqu'un sur qui l'équipe et les clients peuvent compter.",
+   "triggers": [
+    "où vous voyez-vous dans cinq ans",
+    "projection",
+    "plan de carrière",
+    "ambition",
+    "dans 5 ans",
+    "évolution"
+   ],
+   "star": false
+  },
+  {
+   "n": 12,
+   "section": "motivation",
+   "short": "CDI après le stage ?",
+   "start": "Oui, c'est une perspective que j'envisage, Wavestone est une de mes priorités.",
+   "keys": [
+    "D'abord faire mes preuves pendant ces 6 mois",
+    "Si le stage se passe bien et si l'équipe le souhaite → très intéressé"
+   ],
+   "end": "",
+   "triggers": [
+    "cdi après le stage",
+    "embauche",
+    "souhaitez-vous rester",
+    "pré-embauche",
+    "suite après le stage",
+    "long terme"
+   ],
+   "star": false
+  },
+  {
+   "n": 13,
+   "section": "wavestone",
+   "short": "Que savez-vous de Wavestone ?",
+   "start": "Wavestone est un cabinet de conseil international, coté en bourse à Paris.",
+   "keys": [
+    "Né en 1990 sous le nom Solucom ; Wavestone en 2016 (Kurt Salmon Europe)",
+    "Rapprochement avec Q_PERIOR (Allemagne, Autriche, Suisse)",
+    "6 000+ collaborateurs ; plan Lead the shift, juin 2026, horizon 2030, IA axe majeur",
+    "Cyber : CERT-W, réponse à incident"
+   ],
+   "end": "Un conseil qui s'appuie sur des cas réels.",
+   "triggers": [
+    "que savez-vous de wavestone",
+    "présentez wavestone",
+    "connaissez-vous notre cabinet",
+    "histoire de wavestone",
+    "que savez-vous de nous",
+    "solucom"
+   ],
+   "star": true
+  },
+  {
+   "n": 14,
+   "section": "wavestone",
+   "short": "Offre cyber de Wavestone",
+   "start": "D'après votre site, Wavestone couvre la cybersécurité sur toute la chaîne.",
+   "keys": [
+    "Gestion de crise, CERT-W, Zero Trust",
+    "Sécurité cloud, gestion des identités",
+    "Industriel, risque fournisseurs",
+    "Détail des missions : je ne connais pas"
+   ],
+   "end": "Attrait : identités et IA ; détection et industriel à apprendre.",
+   "triggers": [
+    "que savez-vous de notre offre cyber",
+    "nos activités cybersécurité",
+    "nos services",
+    "notre expertise cyber",
+    "ce que fait wavestone en cyber"
+   ],
+   "star": false
+  },
+  {
+   "n": 15,
+   "section": "wavestone",
+   "short": "Concurrents et différence",
+   "start": "Je distingue deux familles : les grands cabinets généralistes et les acteurs cyber plus opérationnels.",
+   "keys": [
+    "Généralistes : Big Four, Accenture, Capgemini Invent",
+    "Opérationnels : Orange Cyberdefense, Synetis (réalisation, supervision)",
+    "Détail de leurs offres : je ne connais pas, prudent",
+    "Wavestone : conseil + vraie cyber, du cadrage à la réalisation ; CERT-W"
+   ],
+   "end": "Des recommandations concrètes.",
+   "triggers": [
+    "nos concurrents",
+    "qui sont nos concurrents",
+    "qu'est-ce qui nous différencie",
+    "positionnement du marché",
+    "wavestone vs big four",
+    "pourquoi nous plutôt que les autres"
+   ],
+   "star": false
+  },
+  {
+   "n": 16,
+   "section": "wavestone",
+   "short": "Valeur qui vous parle",
+   "start": "Je connais vos trois valeurs : Energetic, Responsible et Together. Je me reconnais surtout dans Together.",
+   "keys": [
+    "Un bon résultat vient d'une équipe qui se parle",
+    "Lab AD en binôme : construction et attaque répartis, découvertes partagées, doc commune",
+    "Compréhension complète attaque → défense",
+    "Energetic et Responsible comptent aussi"
+   ],
+   "end": "Together est celle que j'ai le plus vécue.",
+   "triggers": [
+    "nos valeurs",
+    "quelle valeur vous parle",
+    "energetic responsible together",
+    "culture d'entreprise",
+    "valeurs de wavestone"
+   ],
+   "star": false
+  },
+  {
+   "n": 17,
+   "section": "wavestone",
+   "short": "Actualité qui vous a marqué",
+   "start": "Oui, le Radar des startups cyber, publié avec Bpifrance à VivaTech cette année.",
+   "keys": [
+    "230+ startups françaises de cyber, majorité intègre de l'IA",
+    "Rôle de veille et d'aide au choix de solutions",
+    "= mission de l'offre : appels d'offres, comparatifs, essais",
+    "Lien projet recherche : 4 solutions IAM comparées en équipe"
+   ],
+   "end": "",
+   "triggers": [
+    "actualité wavestone",
+    "publication qui vous a marqué",
+    "veille",
+    "avez-vous lu nos publications",
+    "radar des startups",
+    "dernière actualité"
+   ],
+   "star": false
+  },
+  {
+   "n": 18,
+   "section": "wavestone",
+   "short": "Journée d'un consultant junior",
+   "start": "Je ne l'ai pas encore vécu, je réponds d'après l'offre et mes lectures.",
+   "keys": [
+    "Équipe projet avec consultants expérimentés",
+    "Analyser documents, comparatifs, ateliers client, synthèses",
+    "Présenter : en interne puis devant le client",
+    "Rigueur, clarté, communication"
+   ],
+   "end": "Proche de Tanger Alliance : rapport et restitution à la DSI.",
+   "triggers": [
+    "journée type",
+    "à quoi ressemble le métier",
+    "consultant junior au quotidien",
+    "votre vision du métier",
+    "que fait un consultant",
+    "quotidien du stagiaire"
+   ],
+   "star": false
+  },
+  {
+   "n": 19,
+   "section": "wavestone",
+   "short": "Sujet de stage qui attire",
+   "start": "Celui qui m'attire le plus : Intelligence artificielle et cybersécurité, quels seront les agents de demain.",
+   "keys": [
+    "Projet recherche : identités des agents IA",
+    "Maquette : accès cadrés par règles à base d'attributs (ABAC)",
+    "Ancienne méthode d'authentification bloquée (contourne la double vérification)",
+    "Agent = responsable humain, droits minimaux, journaux ; maquette, pas production"
+   ],
+   "end": "Relie mon travail de recherche à un enjeu de vos clients.",
+   "triggers": [
+    "quel sujet vous attire",
+    "sujets de stage",
+    "agents de demain",
+    "ia et cybersécurité",
+    "quel thème de l'offre",
+    "sujet préféré"
+   ],
+   "star": false
+  },
+  {
+   "n": 20,
+   "section": "wavestone",
+   "short": "Qualités d'un bon consultant",
+   "start": "Selon moi, un bon consultant a quatre qualités : curiosité, rigueur, clarté à l'oral, esprit d'équipe.",
+   "keys": [
+    "Curiosité : comprendre vite le métier du client",
+    "Rigueur : structurer, formaliser, prendre du recul",
+    "Tanger Alliance : constats → recos priorisées → présentées à la DSI",
+    "À progresser : prise de parole"
+   ],
+   "end": "",
+   "triggers": [
+    "qualités d'un consultant",
+    "qu'est-ce qu'un bon consultant",
+    "compétences clés du conseil",
+    "soft skills",
+    "ce qu'il faut pour être consultant"
+   ],
+   "star": false
+  },
+  {
+   "n": 21,
+   "section": "wavestone",
+   "short": "Grands enjeux de la cyber",
+   "start": "J'en vois trois : l'intelligence artificielle, la souveraineté numérique, la résilience.",
+   "keys": [
+    "IA : outil de défense et nouvelle surface d'attaque ; un agent a identité et droits",
+    "Souveraineté : risques de dépendance aux fournisseurs tech",
+    "Résilience : continuer et repartir après incident majeur"
+   ],
+   "end": "IA je connais (projet), les deux autres je veux les apprendre avec vous.",
+   "triggers": [
+    "enjeux de la cybersécurité",
+    "tendances cyber",
+    "grands défis",
+    "actualité cyber",
+    "menaces actuelles",
+    "culture cyber"
+   ],
+   "star": false
+  },
+  {
+   "n": 22,
+   "section": "parcours",
+   "short": "Stage Tanger Alliance",
+   "start": "J'ai fait une analyse d'écarts de sécurité chez Tanger Alliance, terminal à conteneurs au Maroc.",
+   "keys": [
+    "Stage 2 mois : 29/04 → 30/06/2025",
+    "3 politiques vs ISO 27001/27002, maturité CMM",
+    "15 recos priorisées → feuille de route 12 mois, 4 phases",
+    "Restitué à la DSI"
+   ],
+   "end": "Même logique qu'un diagnostic de conseil : écart, puis reco.",
+   "triggers": [
+    "stage tanger alliance",
+    "qu'avez-vous fait en stage",
+    "votre expérience",
+    "analyse d'écarts",
+    "votre stage au maroc",
+    "expérience professionnelle"
+   ],
+   "star": true
+  },
+  {
+   "n": 23,
+   "section": "parcours",
+   "short": "Votre rôle personnel",
+   "start": "Personnellement, j'ai réalisé l'analyse, puis développé seul une plateforme de sensibilisation.",
+   "keys": [
+    "Lu 3 documents, écart vs norme, maturité",
+    "Rédigé recos + feuille de route",
+    "Limites : stage 2 mois, rien mis en œuvre",
+    "Pas de budget, pas de certification"
+   ],
+   "end": "Une analyse claire que des seniors peuvent challenger.",
+   "triggers": [
+    "votre rôle",
+    "votre part",
+    "qu'avez-vous fait personnellement",
+    "votre contribution",
+    "seul ou en équipe",
+    "limites du stage"
+   ],
+   "star": true
+  },
+  {
+   "n": 24,
+   "section": "parcours",
+   "short": "Priorisation des 15 recos",
+   "start": "Je me suis appuyé sur trois critères : impact, effort et dépendances.",
+   "keys": [
+    "Écart croisé avec maturité mesurée",
+    "Quick wins vs chantiers de fond",
+    "Dépendances = ordre",
+    "→ feuille de route 4 phases"
+   ],
+   "end": "Un arbitrage qu'un consultant doit défendre devant un client.",
+   "triggers": [
+    "comment avez-vous priorisé",
+    "critères de priorisation",
+    "quick wins",
+    "ordre des recommandations",
+    "hiérarchiser",
+    "impact effort"
+   ],
+   "star": false
+  },
+  {
+   "n": 25,
+   "section": "parcours",
+   "short": "Reco la plus importante",
+   "start": "L'une des plus importantes est l'authentification multifacteur : un second justificatif en plus du mot de passe.",
+   "keys": [
+    "Mot de passe volé = porte d'entrée courante",
+    "Second justificatif : effort raisonnable",
+    "Recommandée, PAS déployée",
+    "Piège : ancienne authentification"
+   ],
+   "end": "Thème de votre offre : la gestion des identités.",
+   "triggers": [
+    "recommandation la plus importante",
+    "mfa",
+    "authentification multifacteur",
+    "quelle reco en premier",
+    "double authentification",
+    "la plus critique"
+   ],
+   "star": false
+  },
+  {
+   "n": 26,
+   "section": "parcours",
+   "short": "Réaction de la DSI",
+   "start": "J'ai présenté avec un rapport écrit, puis une restitution orale, sans prétendre que tout a été adopté.",
+   "keys": [
+    "15 recos → feuille de route 12 mois, 4 phases",
+    "Vue d'ensemble : actions rapides / fond",
+    "Pas de chiffre de résultat",
+    "Pas de suivi de mise en œuvre"
+   ],
+   "end": "Un décideur attend ordre clair et priorités : la restitution.",
+   "triggers": [
+    "réaction de la dsi",
+    "comment avez-vous présenté",
+    "restitution",
+    "retour du client",
+    "résultats de vos recommandations",
+    "soutenance"
+   ],
+   "star": false
+  },
+  {
+   "n": 27,
+   "section": "parcours",
+   "short": "Plateforme de sensibilisation",
+   "start": "C'est une plateforme web de sensibilisation cybersécurité, développée seul pendant mon stage, avec Flask.",
+   "keys": [
+    "Né d'un constat : utilisateurs à sensibiliser",
+    "Modules, quiz, certificats, badges",
+    "Phishing simulé : ouvertures, clics, signalements",
+    "Pas un produit fini : pas de MFA"
+   ],
+   "end": "Rejoint la conduite du changement de votre offre.",
+   "triggers": [
+    "plateforme de sensibilisation",
+    "phishing simulé",
+    "flask",
+    "projet développé",
+    "outil que vous avez créé",
+    "sensibilisation des utilisateurs"
+   ],
+   "star": false
+  },
+  {
+   "n": 28,
+   "section": "parcours",
+   "short": "Projet de recherche identités",
+   "start": "Projet de recherche encadré, en équipe : un cahier des charges de gestion des identités pour une PME médicale.",
+   "keys": [
+    "Mai → juillet 2026, en équipe",
+    "Équipe : risques, comparatif, politique d'accès (ISO 27002, santé, RGPD)",
+    "Ma partie : SSO Entra ID ↔ GitLab + comptes automatiques",
+    "Identités des agents IA ; maquette"
+   ],
+   "end": "Du besoin au risque, à la politique : proche d'une mission de conseil.",
+   "triggers": [
+    "projet de recherche",
+    "gestion des identités",
+    "iam",
+    "votre projet de master",
+    "entra id",
+    "sso gitlab",
+    "votre démarche"
+   ],
+   "star": true
+  },
+  {
+   "n": 29,
+   "section": "parcours",
+   "short": "Comparatif des 4 solutions",
+   "start": "Nous avons comparé quatre solutions : Entra ID, Okta, BeyondTrust et CyberArk, en équipe.",
+   "keys": [
+    "Travail d'équipe, pas seul",
+    "Entra ID/Okta : identités et connexion",
+    "BeyondTrust/CyberArk : comptes à privilèges",
+    "Critères du cahier des charges ; pas un test d'achat"
+   ],
+   "end": "La logique de l'aide au choix de votre offre.",
+   "triggers": [
+    "comparer les solutions",
+    "okta",
+    "cyberark",
+    "beyondtrust",
+    "choix de solution",
+    "pam",
+    "pourquoi entra id"
+   ],
+   "star": true
+  },
+  {
+   "n": 30,
+   "section": "parcours",
+   "short": "SAML et SCIM simplement",
+   "start": "SAML ouvre la porte, SCIM tient à jour la liste des personnes autorisées.",
+   "keys": [
+    "SAML = passeport signé, vérifié par l'application",
+    "Mon projet : Entra ID délivre, GitLab reçoit",
+    "SCIM : crée, modifie, désactive les comptes",
+    "Point sensible : départ, comptes oubliés"
+   ],
+   "end": "",
+   "triggers": [
+    "saml",
+    "scim",
+    "sso",
+    "connexion unique",
+    "expliquez saml",
+    "provisioning",
+    "vulgariser"
+   ],
+   "star": false
+  },
+  {
+   "n": 31,
+   "section": "parcours",
+   "short": "Apport de HTB et lab AD",
+   "start": "Cela m'apporte la vision de l'attaquant, qui rend mes recommandations plus solides.",
+   "keys": [
+    "HTB (27/09/2026) : 36 machines, 5 Fortresses",
+    "Surtout Active Directory",
+    "Lab en binôme : Kerberoasting, DCSync → tiering, GPO",
+    "Jamais de pentest client"
+   ],
+   "end": "Comprendre l'attaque aide à expliquer pourquoi une mesure compte.",
+   "triggers": [
+    "hack the box",
+    "htb",
+    "active directory",
+    "lab ad",
+    "vision de l'attaquant",
+    "pentest",
+    "kerberoasting"
+   ],
+   "star": true
+  },
+  {
+   "n": 32,
+   "section": "parcours",
+   "short": "Lab reproduction de CVE",
+   "start": "C'est un projet de mon master : un laboratoire de reproduction de failles connues, les CVE.",
+   "keys": [
+    "Vagrant + Ansible : environnement vulnérable",
+    "Avis CERT-FR → exploit de démo → IoC",
+    "Plan de correction : guides ANSSI",
+    "Pas d'incident réel ; gravité ≠ risque"
+   ],
+   "end": "Je sais que votre CERT-W traite de vrais cas.",
+   "triggers": [
+    "lab cve",
+    "reproduction de failles",
+    "cert-fr",
+    "indicateurs de compromission",
+    "vulnérabilités",
+    "cert-w",
+    "vagrant ansible"
+   ],
+   "star": false
+  },
+  {
+   "n": 33,
+   "section": "parcours",
+   "short": "Projet dont vous êtes fier",
+   "start": "Je suis le plus fier de ma partie du projet de recherche sur les identités.",
+   "keys": [
+    "SSO Entra ID ↔ GitLab",
+    "Création/désactivation automatiques des comptes",
+    "Identités des agents IA",
+    "Maquette, pas production"
+   ],
+   "end": "Besoin, analyse, choix, maquette : ce que je veux faire à plus grande échelle.",
+   "triggers": [
+    "projet le plus fier",
+    "votre plus belle réalisation",
+    "réalisation marquante",
+    "meilleur projet",
+    "dont vous êtes fier"
+   ],
+   "star": false
+  },
+  {
+   "n": 34,
+   "section": "parcours",
+   "short": "Cours qui vous a marqué",
+   "start": "Je citerais le projet de réseau d'entreprise segmenté de mon master.",
+   "keys": [
+    "Zones de confiance, administration séparée",
+    "Matrice des flux, plan de tests",
+    "Refus par défaut : on autorise le nécessaire",
+    "Pas de systèmes industriels"
+   ],
+   "end": "Cette logique de zones est une base utile pour l'industriel.",
+   "triggers": [
+    "matière préférée",
+    "cours marquant",
+    "segmentation réseau",
+    "ce que vous avez préféré en master",
+    "formation",
+    "module favori"
+   ],
+   "star": false
+  },
+  {
+   "n": 35,
+   "section": "parcours",
+   "short": "Que changeriez-vous ?",
+   "start": "Je passerais de la maquette à un vrai test avec de vrais utilisateurs.",
+   "keys": [
+    "Maquette jamais éprouvée en production",
+    "Soigner le départ : comptes oubliés",
+    "Ancienne authentification : mode rapport seul d'abord",
+    "Déploiement progressif, vérifications à chaque palier"
+   ],
+   "end": "Une maquette n'est qu'une première étape.",
+   "triggers": [
+    "si vous refaisiez",
+    "que feriez-vous différemment",
+    "axes d'amélioration",
+    "limites de votre projet",
+    "améliorer votre projet",
+    "rétrospective"
+   ],
+   "star": false
+  },
+  {
+   "n": 36,
+   "section": "comportement",
+   "short": "Difficulté surmontée",
+   "start": "Ma difficulté la plus marquante, c'est la priorisation des recommandations chez Tanger Alliance.",
+   "keys": [
+    "3 documents en 2 mois, tout semblait important",
+    "3 critères : impact, effort, dépendances",
+    "Quick wins vs fond, croisé avec maturité",
+    "Feuille de route 12 mois, 4 phases, DSI"
+   ],
+   "end": "Face à beaucoup de sujets : d'abord des critères, le choix devient défendable.",
+   "triggers": [
+    "difficulté",
+    "obstacle surmonté",
+    "situation compliquée",
+    "challenge",
+    "problème rencontré",
+    "moment difficile"
+   ],
+   "star": true
+  },
+  {
+   "n": 37,
+   "section": "comportement",
+   "short": "Échec ou erreur",
+   "start": "Voici une vraie erreur : un mot de passe administrateur par défaut laissé dans le code.",
+   "keys": [
+    "Plateforme de sensibilisation, code suivi avec git",
+    "Retiré du code et de l'historique",
+    "Secret exposé = compromis, à changer",
+    "Retirer la ligne ne suffit pas"
+   ],
+   "end": "Un secret n'a jamais sa place dans un dépôt : réflexe essentiel en cyber.",
+   "triggers": [
+    "échec",
+    "erreur commise",
+    "une erreur",
+    "vous avez échoué",
+    "faute",
+    "ce que vous avez raté",
+    "apprendre d'une erreur"
+   ],
+   "star": true
+  },
+  {
+   "n": 38,
+   "section": "comportement",
+   "short": "Désaccord ou conflit",
+   "start": "Pas de vrai conflit, mais des moments où il fallait se mettre d'accord.",
+   "keys": [
+    "Lab AD en binôme : domaine / attaques",
+    "Découvertes partagées, documentation commune",
+    "Méthode : faits, écoute, test ou avis extérieur",
+    "Résultat : compréhension complète attaque-défense"
+   ],
+   "end": "",
+   "triggers": [
+    "désaccord",
+    "conflit",
+    "tension en équipe",
+    "mésentente",
+    "conflit d'équipe",
+    "divergence"
+   ],
+   "star": false
+  },
+  {
+   "n": 39,
+   "section": "comportement",
+   "short": "Délai serré, multi-tâches",
+   "start": "Mon stage chez Tanger Alliance en est le meilleur exemple : tout en deux mois.",
+   "keys": [
+    "3 documents, 15 recos, feuille de route, plateforme",
+    "Livrable principal d'abord (rapport DSI)",
+    "Plateforme ensuite",
+    "Pas de situation de crise"
+   ],
+   "end": "Avec peu de temps : décider de l'essentiel, périmètre limité assumé.",
+   "triggers": [
+    "délai serré",
+    "gestion du temps",
+    "plusieurs tâches",
+    "pression",
+    "stress",
+    "urgence",
+    "priorités"
+   ],
+   "star": false
+  },
+  {
+   "n": 40,
+   "section": "comportement",
+   "short": "Convaincre quelqu'un",
+   "start": "Le meilleur exemple, c'est ma restitution à la DSI chez Tanger Alliance.",
+   "keys": [
+    "Faire accepter un ordre d'actions",
+    "3 critères visibles : impact, effort, dépendances",
+    "Feuille de route plus discutable qu'une liste",
+    "Critères clairs > autorité"
+   ],
+   "end": "Votre offre parle de partage de conviction : compétence à développer.",
+   "triggers": [
+    "convaincre",
+    "persuader",
+    "faire accepter",
+    "argumenter",
+    "influence",
+    "partage de conviction"
+   ],
+   "star": false
+  },
+  {
+   "n": 41,
+   "section": "comportement",
+   "short": "Apprendre vite un sujet",
+   "start": "Dans mon projet de recherche, j'ai pris en charge les identités des agents IA.",
+   "keys": [
+    "Sujet récent, peu de pratiques établies",
+    "Parti d'Entra ID, que je maîtrisais",
+    "Gouvernance, groupes dynamiques, ancienne authentification bloquée",
+    "Maquette cohérente, pas éprouvée en production"
+   ],
+   "end": "Un sujet nouveau devient abordable relié à des bases solides.",
+   "triggers": [
+    "apprendre rapidement",
+    "sujet nouveau",
+    "autonomie",
+    "agents ia",
+    "montée en compétence",
+    "adaptation",
+    "curiosité"
+   ],
+   "star": false
+  },
+  {
+   "n": 42,
+   "section": "comportement",
+   "short": "Critique reçue",
+   "start": "Quand je reçois une critique, je commence par la reformuler pour bien comprendre.",
+   "keys": [
+    "Reformuler, puis appliquer",
+    "Demander si c'est mieux",
+    "Information pour progresser, pas jugement"
+   ],
+   "end": "Retour rapide vaut mieux qu'un défaut qui dure ; je les recherche.",
+   "triggers": [
+    "critique",
+    "feedback",
+    "retour négatif",
+    "remise en question",
+    "recevoir un reproche",
+    "point faible relevé"
+   ],
+   "star": false
+  },
+  {
+   "n": 43,
+   "section": "comportement",
+   "short": "Une initiative prise",
+   "start": "Mon initiative la plus claire, c'est la plateforme de sensibilisation chez Tanger Alliance.",
+   "keys": [
+    "Constat : manque de sensibilisation",
+    "Développée seul : modules, quiz, certificats, badges",
+    "Phishing simulé : ouvertures, clics, signalements",
+    "Pas de chiffre d'usage"
+   ],
+   "end": "Une reco devient parlante avec un prototype ; j'aimerais garder cette habitude.",
+   "triggers": [
+    "initiative",
+    "proactivité",
+    "vous avez pris les devants",
+    "aller plus loin",
+    "prise d'initiative"
+   ],
+   "star": false
+  },
+  {
+   "n": 44,
+   "section": "comportement",
+   "short": "Expliquer à un non-technicien",
+   "start": "J'ai transformé quinze recommandations en une feuille de route de quatre phases pour la DSI.",
+   "keys": [
+    "Liste de 15 points parle peu, calendrier clair oui",
+    "MFA = porte, clé + code",
+    "Mot de passe = clé ; code téléphone = second verrou",
+    "Partir du risque pour l'activité"
+   ],
+   "end": "",
+   "triggers": [
+    "vulgariser",
+    "expliquer simplement",
+    "non technicien",
+    "pédagogie",
+    "communiquer au client",
+    "public non technique"
+   ],
+   "star": false
+  },
+  {
+   "n": 45,
+   "section": "comportement",
+   "short": "Votre rôle en équipe",
+   "start": "Je prends en général une partie clairement identifiée et je la mène jusqu'au bout.",
+   "keys": [
+    "Projet recherche : identités et accès",
+    "Analyse de risques et comparatif en commun",
+    "Lab binôme : construction/attaque, doc partagée",
+    "Pas chef d'équipe"
+   ],
+   "end": "Team player : le rôle où je me sens le plus utile.",
+   "triggers": [
+    "rôle dans une équipe",
+    "travail d'équipe",
+    "team player",
+    "vous êtes plutôt leader",
+    "comment travaillez-vous en groupe",
+    "esprit d'équipe"
+   ],
+   "star": true
+  },
+  {
+   "n": 46,
+   "section": "comportement",
+   "short": "Bloqué techniquement",
+   "start": "Je procède par méthode, pas au hasard : sur Hack The Box, toujours la même démarche.",
+   "keys": [
+    "Reconnaissance, énumération, accès, élévation, rapport",
+    "Bloqué : retour à l'énumération, relire mes notes",
+    "Autre approche, noter les échecs",
+    "Temps raisonnable puis demander un avis"
+   ],
+   "end": "Une méthode écrite évite de tourner en rond.",
+   "triggers": [
+    "bloqué",
+    "problème technique",
+    "vous ne trouvez pas la solution",
+    "démarche de résolution",
+    "comment cherchez-vous",
+    "autonomie",
+    "demander de l'aide"
+   ],
+   "star": false
+  },
+  {
+   "n": 47,
+   "section": "technique",
+   "short": "ISO 27001 vs 27002",
+   "start": "La 27001 fixe les exigences du SMSI et se certifie ; la 27002 est le guide de mesures.",
+   "keys": [
+    "27001 = quoi faire (exigences, certifiable)",
+    "27002 = comment (bonnes pratiques)",
+    "Tanger Alliance : écart 3 politiques + maturité",
+    "Projet recherche : politique d'accès alignée mesures 8.2 et 8.4"
+   ],
+   "end": "Base utile pour gouvernance et conformité.",
+   "triggers": [
+    "iso 27001",
+    "iso 27002",
+    "normes iso",
+    "différence 27001 27002",
+    "référentiel iso"
+   ],
+   "star": false
+  },
+  {
+   "n": 48,
+   "section": "technique",
+   "short": "Qu'est-ce qu'un SMSI ?",
+   "start": "Un SMSI, c'est un système de management de la sécurité, qui gère la sécurité en continu.",
+   "keys": [
+    "Cycle : risques → mesures → application → contrôle → amélioration",
+    "Politique, responsables, indicateurs, audits",
+    "Pas mis en place en production",
+    "Tanger Alliance : maturité + feuille de route 12 mois"
+   ],
+   "end": "Le plus dur : le faire vivre dans la durée.",
+   "triggers": [
+    "smsi",
+    "système de management",
+    "isms",
+    "management de la sécurité",
+    "roue de deming"
+   ],
+   "star": false
+  },
+  {
+   "n": 49,
+   "section": "technique",
+   "short": "Menace, vulnérabilité, risque",
+   "start": "La menace peut causer un dommage, la vulnérabilité est la faiblesse exploitée, le risque combine les deux.",
+   "keys": [
+    "Menace : attaquant, rançongiciel",
+    "Vulnérabilité : système non mis à jour",
+    "Risque = probabilité x impact",
+    "Serveur non corrigé : exposé + données sensibles = élevé"
+   ],
+   "end": "Une note de gravité n'est pas un risque : contexte.",
+   "triggers": [
+    "menace vulnérabilité risque",
+    "définition risque",
+    "différence risque vulnérabilité",
+    "cvss gravité",
+    "notion de risque"
+   ],
+   "star": false
+  },
+  {
+   "n": 50,
+   "section": "technique",
+   "short": "Analyse de risques, EBIOS RM",
+   "start": "Je pars de ce qu'il faut protéger : actifs, menaces, failles, probabilité et impact, puis décision.",
+   "keys": [
+    "Décision : réduire, accepter, transférer, éviter",
+    "Projet recherche : analyse de risques avant 4 solutions",
+    "EBIOS RM (ANSSI) : démarche et 5 ateliers, cours",
+    "Jamais conduite en mission : prêt à apprendre"
+   ],
+   "end": "Avec un consultant expérimenté.",
+   "triggers": [
+    "analyse de risques",
+    "ebios",
+    "ebios rm",
+    "méthode de risque",
+    "anssi méthode",
+    "gestion des risques"
+   ],
+   "star": false
+  },
+  {
+   "n": 51,
+   "section": "technique",
+   "short": "IAM, IGA, PAM",
+   "start": "L'IAM gère identités et accès, l'IGA ajoute la gouvernance, le PAM protège les comptes à privilèges.",
+   "keys": [
+    "IGA : arrivées, mutations, départs, revues de droits",
+    "PAM : coffre-fort, enregistrement de sessions, accès limités dans le temps",
+    "Ma partie : fédération SSO + création auto de comptes",
+    "PAM : notions + comparatif CyberArk/BeyondTrust, pas de prod"
+   ],
+   "end": "Domaine qui m'attire, votre offre cite IAM et IGA.",
+   "triggers": [
+    "iam",
+    "iga",
+    "pam",
+    "gestion des identités",
+    "comptes à privilèges",
+    "gouvernance des identités",
+    "cyberark"
+   ],
+   "star": true
+  },
+  {
+   "n": 52,
+   "section": "technique",
+   "short": "SSO, SAML, OpenID Connect",
+   "start": "Le SSO permet de se connecter une fois pour accéder à plusieurs applications ; SAML et OIDC le réalisent.",
+   "keys": [
+    "SAML : XML, répandu en entreprise",
+    "OIDC : sur OAuth 2.0, JSON, applis modernes/mobiles",
+    "Projet : Entra ID (IdP) relié à GitLab en SAML 2.0, maquette",
+    "Point clé : vérifier la signature de l'assertion"
+   ],
+   "end": "Je peux dérouler le flux en six étapes.",
+   "triggers": [
+    "sso",
+    "saml",
+    "openid connect",
+    "oidc",
+    "oauth",
+    "fédération d'identité",
+    "authentification unique"
+   ],
+   "star": false
+  },
+  {
+   "n": 53,
+   "section": "technique",
+   "short": "MFA : intérêt et limites",
+   "start": "Le MFA ajoute un second facteur au mot de passe : un mot de passe volé ne suffit plus.",
+   "keys": [
+    "Limites : phishing, fatigue de notifications, authentification héritée",
+    "Tanger Alliance : recommandé dans l'audit, pas déployé",
+    "Projet : blocage authentification héritée, maquette"
+   ],
+   "end": "Indispensable mais bien déployé et accompagné.",
+   "triggers": [
+    "mfa",
+    "double authentification",
+    "authentification multifacteur",
+    "2fa",
+    "limites du mfa"
+   ],
+   "star": false
+  },
+  {
+   "n": 54,
+   "section": "technique",
+   "short": "Le Zero Trust",
+   "start": "Zero Trust : ne faire confiance à personne par défaut, chaque accès est vérifié, avec le minimum de droits.",
+   "keys": [
+    "Authentification forte, accès conditionnels, segmentation",
+    "Mon réseau segmenté : refus par défaut + matrice de flux",
+    "Chemin progressif, pas un produit"
+   ],
+   "end": "Wavestone le cite : j'aimerais apprendre à l'expliquer.",
+   "triggers": [
+    "zero trust",
+    "confiance zéro",
+    "moindre privilège",
+    "segmentation",
+    "principes zero trust"
+   ],
+   "star": false
+  },
+  {
+   "n": 55,
+   "section": "technique",
+   "short": "Attaque Active Directory",
+   "start": "Le Kerberoasting, rejoué dans notre labo Active Directory en binôme.",
+   "keys": [
+    "Compte du domaine demande ticket compte de service",
+    "Ticket chiffré avec son mot de passe, cassé hors ligne",
+    "Défense : mots de passe très longs, éviter RC4",
+    "Labo : modèle d'administration en tiers + GPO"
+   ],
+   "end": "Pratiqué côté attaque et côté défense.",
+   "triggers": [
+    "active directory",
+    "kerberoasting",
+    "attaque ad",
+    "kerberos",
+    "pentest ad",
+    "labo ad"
+   ],
+   "star": false
+  },
+  {
+   "n": 56,
+   "section": "technique",
+   "short": "SIEM, EDR, XDR, SOAR",
+   "start": "Le SIEM analyse les journaux, l'EDR surveille postes et serveurs, l'XDR étend, le SOAR automatise.",
+   "keys": [
+    "EDR : peut isoler une machine infectée",
+    "XDR : réseau et cloud",
+    "SOAR : bloquer un compte, ouvrir un ticket",
+    "Pas exploité en production : analyse de logs HTB, Sherlock, Python"
+   ],
+   "end": "Je sais quoi chercher, j'apprendrais vite les outils.",
+   "triggers": [
+    "siem",
+    "edr",
+    "xdr",
+    "soar",
+    "supervision",
+    "soc",
+    "logs",
+    "outils de détection"
+   ],
+   "star": true
+  },
+  {
+   "n": 57,
+   "section": "technique",
+   "short": "Aider à choisir une solution",
+   "start": "Je commencerais par le besoin du client, pas par les produits.",
+   "keys": [
+    "Critères : fonctionnalités, intégration, coût, support, souveraineté",
+    "Appel d'offres → comparaison → POC",
+    "Pas d'appel d'offres mené",
+    "Projet : 4 solutions (Entra ID, Okta, BeyondTrust, CyberArk) + cahier des charges + risques"
+   ],
+   "end": "Radar des startups cyber de Wavestone aide à s'y retrouver.",
+   "triggers": [
+    "choisir une solution",
+    "choix d'outil",
+    "sélection de solution",
+    "appel d'offres",
+    "comparatif",
+    "poc",
+    "recommandation d'outil"
+   ],
+   "star": true
+  },
+  {
+   "n": 58,
+   "section": "technique",
+   "short": "NIS2 et DORA",
+   "start": "NIS2 est une directive européenne qui renforce la cybersécurité ; DORA vise la résilience du secteur financier.",
+   "keys": [
+    "NIS2 : gestion des risques, notification d'incidents, responsabilité des dirigeants",
+    "DORA : tests, incidents, prestataires",
+    "Jamais appliqués en mission : cours",
+    "Wavestone a appuyé le MEDEF (enquête NIS2)"
+   ],
+   "end": "Pour un client : par où commencer ?",
+   "triggers": [
+    "nis2",
+    "dora",
+    "réglementation",
+    "directive européenne",
+    "conformité",
+    "résilience financière"
+   ],
+   "star": false
+  },
+  {
+   "n": 59,
+   "section": "technique",
+   "short": "PCA/PRA et rançongiciel",
+   "start": "Le PCA continue l'activité pendant la crise ; le PRA la redémarre après un arrêt.",
+   "keys": [
+    "Rançongiciel : sauvegardes isolées et testées",
+    "Segmentation + exercices de crise",
+    "Pas rédigé de PCA/PRA",
+    "Tanger Alliance : feuille de route 4 phases"
+   ],
+   "end": "La résilience se prépare avant la crise.",
+   "triggers": [
+    "pca",
+    "pra",
+    "continuité d'activité",
+    "reprise d'activité",
+    "ransomware",
+    "rançongiciel",
+    "sauvegardes"
+   ],
+   "star": false
+  },
+  {
+   "n": 60,
+   "section": "technique",
+   "short": "Sécurité OT vs IT",
+   "start": "L'IT traite surtout des données ; l'OT pilote des procédés physiques, machines ou chaînes de production.",
+   "keys": [
+    "OT : disponibilité et sécurité des personnes d'abord",
+    "Pas de correctif ni redémarrage facile, équipements anciens",
+    "Pas travaillé sur de l'industriel",
+    "Réseau segmenté : zones de confiance + administration hors bande"
+   ],
+   "end": "Votre offre cite IT et OT : domaine à apprendre.",
+   "triggers": [
+    "ot",
+    "sécurité industrielle",
+    "scada",
+    "systèmes industriels",
+    "automates",
+    "it ot",
+    "ics"
+   ],
+   "star": true
+  },
+  {
+   "n": 61,
+   "section": "technique",
+   "short": "Souveraineté numérique",
+   "start": "C'est garder la maîtrise de ses données et de ses outils ; le risque, c'est la dépendance.",
+   "keys": [
+    "Cartographier dépendances, impact d'une rupture, repli",
+    "Projet : politique d'accès conforme RGPD + hébergement données de santé",
+    "MEDEF + Wavestone : enquête résilience et souveraineté"
+   ],
+   "end": "J'aimerais travailler sur la quantification de ces risques.",
+   "triggers": [
+    "souveraineté",
+    "dépendance fournisseur",
+    "cloud souverain",
+    "rgpd",
+    "hébergement données",
+    "autonomie numérique"
+   ],
+   "star": false
+  },
+  {
+   "n": 62,
+   "section": "technique",
+   "short": "IA et cybersécurité, agents",
+   "start": "L'IA est à la fois un risque et un outil, surtout avec les agents IA qui agissent avec des droits.",
+   "keys": [
+    "Risques : fuites de données, attaques sur modèles, agents",
+    "Usages : détecter, trier les alertes",
+    "Projet : propriétaire humain, droits minimaux, ABAC, journaux (maquette)",
+    "Lead the shift : IA à 17 % du chiffre d'affaires"
+   ],
+   "end": "Cela rejoint mon intérêt pour le sujet.",
+   "triggers": [
+    "ia",
+    "intelligence artificielle",
+    "agents ia",
+    "llm",
+    "ia générative",
+    "risques ia",
+    "lead the shift"
+   ],
+   "star": false
+  },
+  {
+   "n": 63,
+   "section": "technique",
+   "short": "Cyberattaque qui vous a marqué",
+   "start": "L'attaque contre Marks & Spencer, au Royaume-Uni, en avril 2025.",
+   "keys": [
+    "Usurpation d'identité via un prestataire, pas faille technique",
+    "Ventes en ligne suspendues plusieurs semaines",
+    "Tout part de l'identité : qui réinitialise un mot de passe ?",
+    "Thème de mon projet de recherche"
+   ],
+   "end": "Accès : processus et prestataires autant que technique.",
+   "triggers": [
+    "actualité cyber",
+    "attaque marquante",
+    "veille",
+    "cyberattaque récente",
+    "marks and spencer",
+    "incident célèbre"
+   ],
+   "star": false
+  },
+  {
+   "n": 64,
+   "section": "cas",
+   "short": "Client industriel : par où commencer",
+   "start": "Je clarifierais d'abord ce que « bien protégé » veut dire pour ce client.",
+   "keys": [
+    "Questions : activités critiques, SI et industriel, incidents, NIS2",
+    "3 blocs : gouvernance, technique, capacité à réagir",
+    "État des lieux maturité ISO 27002 (comme Tanger Alliance)",
+    "Prioriser impact/effort, synthèse et prochaines étapes"
+   ],
+   "end": "Hypothèse : lien bureau-atelier, à vérifier par les données.",
+   "triggers": [
+    "client industriel",
+    "par où commencez-vous",
+    "bien protégé",
+    "cas pratique",
+    "audit de maturité",
+    "état des lieux"
+   ],
+   "star": false
+  },
+  {
+   "n": 65,
+   "section": "cas",
+   "short": "PME : choisir une solution IAM",
+   "start": "Je commencerais par comprendre le besoin : utilisateurs, applications, contraintes, budget.",
+   "keys": [
+    "Critères pondérés : sécurité, simplicité, intégration, coût, support",
+    "Tester les 2 meilleures sur petit périmètre",
+    "Projet : PME médicale, 4 solutions + risques",
+    "PME : simplicité, déploiement progressif"
+   ],
+   "end": "Recommandation argumentée, plan en étapes ; relue par un senior.",
+   "triggers": [
+    "pme",
+    "solution iam",
+    "choisir un iam",
+    "démarche de choix",
+    "cas iam",
+    "critères de choix"
+   ],
+   "star": false
+  },
+  {
+   "n": 66,
+   "section": "cas",
+   "short": "Client rançongiciel : premières heures",
+   "start": "Je suis consultant : je n'agis pas seul, j'appuie la cellule de crise.",
+   "keys": [
+    "1. Limiter : isoler les systèmes, garder les preuves",
+    "2. Gouvernance : décision, communication, autorités, assureur",
+    "3. Comprendre : données, systèmes, étendue",
+    "Vérifier sauvegardes ; journal de décisions"
+   ],
+   "end": "Pas d'incident réel : appui du CERT-W de Wavestone.",
+   "triggers": [
+    "ransomware",
+    "rançongiciel",
+    "gestion de crise",
+    "incident",
+    "premières heures",
+    "cellule de crise",
+    "réponse à incident"
+   ],
+   "star": false
+  },
+  {
+   "n": 67,
+   "section": "cas",
+   "short": "Restituer un audit au COMEX",
+   "start": "Je commencerais par la conclusion : situation, trois messages clés, décisions à prendre.",
+   "keys": [
+    "Risque pour l'activité, coût, demande",
+    "Mots simples, visuels, feuille de route en phases",
+    "Détail en annexe",
+    "Tanger Alliance : DSI, 15 recommandations, feuille de route 12 mois"
+   ],
+   "end": "Une priorité claire vaut mieux qu'une longue liste.",
+   "triggers": [
+    "restitution",
+    "comité de direction",
+    "comex",
+    "public non technique",
+    "présenter un audit",
+    "vulgariser"
+   ],
+   "star": false
+  },
+  {
+   "n": 68,
+   "section": "cas",
+   "short": "Client en désaccord",
+   "start": "Je commencerais par écouter et demander pourquoi il n'est pas d'accord.",
+   "keys": [
+    "Contrainte cachée : budget, organisation, calendrier",
+    "Rappeler faits + risque si rien",
+    "Alternatives : version par étapes, mesure intermédiaire",
+    "Désaccord persiste : encadrant ; le client décide informé"
+   ],
+   "end": "Pas vécu ; Tanger : gains rapides vs chantiers de fond.",
+   "triggers": [
+    "désaccord client",
+    "client refuse",
+    "objection",
+    "conflit client",
+    "recommandation contestée",
+    "négocier"
+   ],
+   "star": false
+  },
+  {
+   "n": 69,
+   "section": "cas",
+   "short": "Question sans réponse en réunion",
+   "start": "Je ne devine pas : je n'ai pas la réponse précise, mais je vais la chercher.",
+   "keys": [
+    "Noter la question, s'engager sur un délai (le lendemain)",
+    "Donner ce que je sais sûrement",
+    "Collègue expérimenté ou sources fiables (ANSSI)",
+    "Revenir vers le client comme promis"
+   ],
+   "end": "Je le fais déjà en autoformation : doc et labo.",
+   "triggers": [
+    "je ne sais pas",
+    "question piège",
+    "question sans réponse",
+    "ne connaît pas la réponse",
+    "honnêteté",
+    "réunion client"
+   ],
+   "star": false
+  },
+  {
+   "n": 70,
+   "section": "cas",
+   "short": "Beaucoup de recos, peu de moyens",
+   "start": "Je classe chaque action selon l'impact sur le risque, l'effort et les dépendances.",
+   "keys": [
+    "Séparer gains rapides et chantiers de fond",
+    "Tanger Alliance : 15 recommandations",
+    "Feuille de route 12 mois, 4 phases",
+    "Validation avec le client (budget, calendrier)"
+   ],
+   "end": "Quand tout est urgent, oser dire ce qui peut attendre.",
+   "triggers": [
+    "prioriser",
+    "priorisation",
+    "peu de budget",
+    "gains rapides",
+    "quick wins",
+    "ressources limitées"
+   ],
+   "star": false
+  },
+  {
+   "n": 71,
+   "section": "cas",
+   "short": "Sujet de stage en 2 minutes",
+   "start": "Je choisirais le sujet IA et cybersécurité : quels seront les agents de demain ?",
+   "keys": [
+    "Problème : agent IA agit avec des droits, parfois sans humain",
+    "Savoir qui il est, ce qu'il peut faire, qui en répond",
+    "Projet : propriétaire humain, droits minimaux, ABAC, journaux (maquette)",
+    "Stage : comparer approches, recommandation, veille"
+   ],
+   "end": "Relie mes identités à l'IA, axe Lead the shift.",
+   "triggers": [
+    "sujet de stage",
+    "quel sujet",
+    "présenter un sujet",
+    "sujet qui vous attire",
+    "deux minutes",
+    "mission souhaitée"
+   ],
+   "star": false
+  },
+  {
+   "n": 72,
+   "section": "anglais",
+   "short": "Introduce yourself",
+   "start": "I'm Mohamed, a second-year Master's student in reliability and computer security at Aix-Marseille University.",
+   "keys": [
+    "SecNumedu label by ANSSI",
+    "Audit: Tanger Alliance, ISO 27001/27002, 15 recommendations",
+    "Identity: SSO, provisioning, AI agents identities",
+    "Pentest: HTB 36 machines, 5 Fortresses (27/09/2026); AD lab"
+   ],
+   "end": "Six-month internship April 2027, Marseille, identity and AI.",
+   "triggers": [
+    "introduce yourself",
+    "tell me about yourself",
+    "present yourself",
+    "who are you",
+    "your background",
+    "walk me through your cv"
+   ],
+   "star": true
+  },
+  {
+   "n": 73,
+   "section": "anglais",
+   "short": "Why consulting, why Wavestone?",
+   "start": "I like varied subjects and different clients, and consulting offers exactly that.",
+   "keys": [
+    "Research project = small consulting mission: 4 solutions compared",
+    "Offer: identity, resilience, AI",
+    "Plan Lead the shift, AI significant share of revenue",
+    "Marseille, responsibility early, team of about 50"
+   ],
+   "end": "Values Energetic, Responsible, Together fit me.",
+   "triggers": [
+    "why consulting",
+    "why wavestone",
+    "why us",
+    "motivation",
+    "why this company",
+    "why marseille"
+   ],
+   "star": true
+  },
+  {
+   "n": 74,
+   "section": "anglais",
+   "short": "A project you are proud of",
+   "start": "I'm proud of my internship at Tanger Alliance, a container terminal operator.",
+   "keys": [
+    "3 policies vs ISO 27001/27002, maturity scoring",
+    "15 recommendations: impact, effort, dependencies, quick wins",
+    "12-month roadmap presented to IT department",
+    "Lack of awareness: built a training platform alone"
+   ],
+   "end": "A good recommendation must be realistic, not only correct.",
+   "triggers": [
+    "proud of",
+    "best project",
+    "achievement",
+    "tanger alliance",
+    "main accomplishment",
+    "tell me about a project"
+   ],
+   "star": true
+  },
+  {
+   "n": 75,
+   "section": "anglais",
+   "short": "Your main weakness",
+   "start": "My main weakness is my limited experience in a company.",
+   "keys": [
+    "One two-month internship",
+    "No SIEM, EDR or industrial systems",
+    "Study sheets, labs, HTB forensics with own Python tools",
+    "Ask questions early, ask for feedback often"
+   ],
+   "end": "A six-month internship at Wavestone can turn it into a strength.",
+   "triggers": [
+    "weakness",
+    "weaknesses",
+    "what are your flaws",
+    "areas to improve",
+    "limitations",
+    "defects"
+   ],
+   "star": true
+  },
+  {
+   "n": 76,
+   "section": "anglais",
+   "short": "Explain MFA to a manager",
+   "start": "Imagine your front door has a lock: a password is that lock.",
+   "keys": [
+    "If someone copies your key, they walk in",
+    "MFA adds a second check, like a code on your phone",
+    "Not perfect: phishing, so train users",
+    "Recommended in Tanger audit, not deployed"
+   ],
+   "end": "Simple measure, big effect on risk, good first step.",
+   "triggers": [
+    "explain mfa",
+    "non-technical",
+    "multi-factor authentication",
+    "two-factor",
+    "explain to a manager",
+    "simple explanation"
+   ],
+   "star": false
+  },
+  {
+   "n": 77,
+   "section": "pieges",
+   "short": "Vos trois qualités ?",
+   "start": "Je dirais persévérance, rigueur et esprit d'équipe.",
+   "keys": [
+    "Persévérance : HTB 36 machines + 5 Fortresses (27/09/2026)",
+    "Rigueur : Tanger Alliance, 15 recos classées impact/effort/dépendances",
+    "Équipe : projet de recherche en groupe, labo en binôme",
+    "Partager le travail, documenter"
+   ],
+   "end": "En conseil, ces trois qualités servent chaque jour.",
+   "triggers": [
+    "vos qualités",
+    "vos forces",
+    "points forts",
+    "trois qualités",
+    "vos atouts"
+   ],
+   "star": true
+  },
+  {
+   "n": 78,
+   "section": "pieges",
+   "short": "Vos défauts ?",
+   "start": "Mon vrai point faible, c'est mon expérience limitée en entreprise.",
+   "keys": [
+    "Un seul stage, 2 mois, Tanger Alliance",
+    "SIEM : pas pratiqué ; OT : pas pratiqué",
+    "Action : fiches de révision, labos, HTB (forensique, outils Python)"
+   ],
+   "end": "D'où un stage de six mois, au contact de consultants expérimentés.",
+   "triggers": [
+    "vos défauts",
+    "points faibles",
+    "point à améliorer",
+    "faiblesses",
+    "axes d'amélioration"
+   ],
+   "star": true
+  },
+  {
+   "n": 79,
+   "section": "pieges",
+   "short": "Jamais de SIEM ni d'OT ?",
+   "start": "Vous avez raison, je n'ai jamais exploité de SIEM en production, ni travaillé sur de l'industriel.",
+   "keys": [
+    "SIEM = rassemble les journaux pour repérer les attaques",
+    "Proche : analyse de journaux, enquêtes Sherlock HTB, outils Python",
+    "OT : réseau d'entreprise segmenté, zones et flux autorisés",
+    "Bases, pas expertise → fiches + apprendre en mission"
+   ],
+   "end": "C'est justement ce que je viens chercher.",
+   "triggers": [
+    "jamais utilisé de siem",
+    "pas d'ot",
+    "pas d'expérience industrielle",
+    "pourquoi vous prendre",
+    "manque de compétences",
+    "lacunes"
+   ],
+   "star": true
+  },
+  {
+   "n": 80,
+   "section": "pieges",
+   "short": "Profil technique, pourquoi conseil ?",
+   "start": "Mon profil est technique, mais je veux le conseil justement pour cela.",
+   "keys": [
+    "Technique : comprendre comment une attaque fonctionne",
+    "Conseil : aider le client à décider quoi faire",
+    "Tanger Alliance : feuille de route restituée à la direction IT",
+    "Projet recherche : 4 solutions d'identité comparées au cahier des charges"
+   ],
+   "end": "Garder un ancrage technique, apprendre à convaincre et restituer.",
+   "triggers": [
+    "trop technique",
+    "pourquoi pas rester technique",
+    "pourquoi le conseil",
+    "pentest plutôt",
+    "pourquoi pas pentester"
+   ],
+   "star": true
+  },
+  {
+   "n": 81,
+   "section": "pieges",
+   "short": "HTB, ce n'est qu'un jeu ?",
+   "start": "Vous avez raison : Hack The Box est un entraînement, pas une mission client.",
+   "keys": [
+    "Pas présenté comme expérience pro",
+    "Méthode : reconnaissance, énumération, accès, élévation, rapport",
+    "Surtout Active Directory",
+    "Labo en binôme : failles corrigées, GPO, modèle d'administration en niveaux"
+   ],
+   "end": "Comprendre l'attaque pour mieux recommander des parades.",
+   "triggers": [
+    "hack the box un jeu",
+    "htb prouve quoi",
+    "ctf sérieux",
+    "plateforme d'entraînement",
+    "valeur de htb"
+   ],
+   "star": false
+  },
+  {
+   "n": 82,
+   "section": "pieges",
+   "short": "Autres candidatures ?",
+   "start": "Oui, comme beaucoup d'étudiants, j'ai postulé à plusieurs endroits, mais Wavestone est une priorité.",
+   "keys": [
+    "Conseil cyber à Marseille",
+    "Identités et résilience = mon projet",
+    "Je me prépare sérieusement",
+    "Transparent si ma situation évolue"
+   ],
+   "end": "Wavestone reste une de mes priorités.",
+   "triggers": [
+    "autres candidatures",
+    "autres entretiens",
+    "où en êtes-vous",
+    "postulé ailleurs",
+    "autres pistes",
+    "autres offres"
+   ],
+   "star": true
+  },
+  {
+   "n": 83,
+   "section": "pieges",
+   "short": "Autre offre demain ?",
+   "start": "Je vous le dirais honnêtement et rapidement, sans vous laisser dans le flou.",
+   "keys": [
+    "Je vous contacte, j'explique ma situation",
+    "Je demande où en est mon dossier",
+    "Pas de pression ; je respecte la date limite de l'autre",
+    "Critère : stage conseil cyber, missions variées, bon encadrement"
+   ],
+   "end": "C'est ce que je cherche chez vous.",
+   "triggers": [
+    "autre offre",
+    "si on vous proposait ailleurs",
+    "proposition concurrente",
+    "vous choisiriez quoi",
+    "offre concurrente"
+   ],
+   "star": false
+  },
+  {
+   "n": 84,
+   "section": "pieges",
+   "short": "Qu'est-ce qui vous ferait partir ?",
+   "start": "Honnêtement, je ne vois pas de raison de quitter un stage que j'ai choisi.",
+   "keys": [
+    "Stage 6 mois sous convention = engagement",
+    "Inquiétude : plus rien apprendre, pas d'encadrement",
+    "D'abord en parler au tuteur",
+    "Pas de départ sur un coup de tête"
+   ],
+   "end": "Chez vous, j'imagine plutôt l'inverse : j'ai hâte d'apprendre.",
+   "triggers": [
+    "quitter le stage",
+    "abandonner",
+    "démissionner",
+    "rupture de stage",
+    "ce qui vous démotive",
+    "vous fidéliser"
+   ],
+   "star": false
+  },
+  {
+   "n": 85,
+   "section": "pieges",
+   "short": "Ce que vous n'aimez pas ?",
+   "start": "Ce que j'aime le moins, c'est travailler sans comprendre le but.",
+   "keys": [
+    "Je pose la question, je reformule, je vérifie les attentes",
+    "J'ai du mal à laisser un travail à moitié fini",
+    "Tanger Alliance : feuille de route complète, pas juste des constats"
+   ],
+   "end": "Comprendre l'enjeu du client est au cœur du métier : ça me convient.",
+   "triggers": [
+    "ce que vous détestez",
+    "ce que vous n'aimez pas",
+    "tâches désagréables",
+    "ce qui vous déplaît",
+    "ce qui vous agace"
+   ],
+   "star": false
+  },
+  {
+   "n": 86,
+   "section": "pieges",
+   "short": "Trois mots pour vous décrire",
+   "start": "Je dirais curieux, déterminé et fiable.",
+   "keys": [
+    "Curieux : j'apprends seul, HTB",
+    "Déterminé : défis tenus jusqu'au rang Pro Hacker",
+    "Fiable : feuille de route complète livrée en 2 mois de stage",
+    "Valeurs Wavestone : Energetic, Responsible, Together"
+   ],
+   "end": "J'espère le montrer concrètement au sein d'une équipe de consultants.",
+   "triggers": [
+    "décrivez-vous en trois mots",
+    "trois adjectifs",
+    "qui êtes-vous en trois mots",
+    "quel adjectif",
+    "mots pour vous définir"
+   ],
+   "star": false
+  },
+  {
+   "n": 87,
+   "section": "pieges",
+   "short": "Que diraient vos profs ?",
+   "start": "Je ne peux pas parler à leur place, mais je pense qu'ils diraient sérieux et autonome.",
+   "keys": [
+    "M1 validée mention Bien, 15,25/20",
+    "Binôme et équipe : partage du travail, documentation",
+    "Fiable, va au bout de ce qu'il commence",
+    "Faits plutôt que compliments, exemple précis possible"
+   ],
+   "end": "",
+   "triggers": [
+    "vos camarades diraient",
+    "vos professeurs",
+    "vos collègues diraient",
+    "comment vous perçoivent-ils",
+    "vos amis diraient"
+   ],
+   "star": false
+  },
+  {
+   "n": 88,
+   "section": "pieges",
+   "short": "Question sans réponse ?",
+   "start": "Je vous dirais simplement : je ne sais pas. Ensuite, je montrerais ce que je sais de proche.",
+   "keys": [
+    "Expliquer l'idée principale si cadre général connu",
+    "Chercher : textes officiels, guides ANSSI, avis d'un collègue expérimenté",
+    "Pas de réponse inventée : confiance client",
+    "Je peux revenir avec la réponse après l'entretien"
+   ],
+   "end": "En conseil, une erreur fait perdre la confiance du client.",
+   "triggers": [
+    "vous ne savez pas",
+    "question piège",
+    "vous ne connaissez pas la réponse",
+    "pas de réponse",
+    "si vous bloquez"
+   ],
+   "star": false
+  },
+  {
+   "n": 89,
+   "section": "pratique",
+   "short": "Début et durée ?",
+   "start": "Je suis disponible à partir de début avril 2027, pour six mois.",
+   "keys": [
+    "Début avril 2027",
+    "Durée 6 mois",
+    "Calendrier de mon master",
+    "Date exacte à confirmer avec mon responsable de M2"
+   ],
+   "end": "",
+   "triggers": [
+    "quand pouvez-vous commencer",
+    "date de début",
+    "disponibilité",
+    "durée du stage",
+    "quelle période",
+    "à partir de quand"
+   ],
+   "star": true
+  },
+  {
+   "n": 90,
+   "section": "pratique",
+   "short": "Convention de stage ?",
+   "start": "Oui, mon stage se fait sous convention avec Aix-Marseille Université.",
+   "keys": [
+    "Convention avec Aix-Marseille Université",
+    "Je transmets les informations utiles",
+    "Préparation ensemble"
+   ],
+   "end": "",
+   "triggers": [
+    "convention de stage",
+    "convention",
+    "cadre du stage",
+    "école",
+    "alternance ou stage",
+    "statut stagiaire"
+   ],
+   "star": true
+  },
+  {
+   "n": 91,
+   "section": "pratique",
+   "short": "Situation administrative ?",
+   "start": "Je suis étudiant international, avec un titre de séjour étudiant.",
+   "keys": [
+    "Titre de séjour étudiant",
+    "Stage sous convention Aix-Marseille Université",
+    "Je vérifie que la date de fin couvre toute la durée du stage"
+   ],
+   "end": "",
+   "triggers": [
+    "titre de séjour",
+    "situation administrative",
+    "nationalité",
+    "autorisation de travail",
+    "visa",
+    "papiers",
+    "étudiant étranger"
+   ],
+   "star": true
+  },
+  {
+   "n": 92,
+   "section": "pratique",
+   "short": "Gratification attendue ?",
+   "start": "Je me base sur votre grille de gratification.",
+   "keys": [
+    "Minimum légal existe",
+    "Ouvert à la discussion",
+    "Pas mon critère principal"
+   ],
+   "end": "",
+   "triggers": [
+    "gratification",
+    "prétentions salariales",
+    "salaire",
+    "rémunération",
+    "combien attendez-vous",
+    "indemnité"
+   ],
+   "star": true
+  },
+  {
+   "n": 93,
+   "section": "pratique",
+   "short": "Déplacements chez les clients ?",
+   "start": "J'habite à Marseille. J'ai le permis, mais pas de voiture.",
+   "keys": [
+    "Transports en commun : couvre Marseille et Aix",
+    "Client éloigné : organisation à l'avance avec l'équipe",
+    "Train par exemple"
+   ],
+   "end": "",
+   "triggers": [
+    "déplacements",
+    "mobilité",
+    "voiture",
+    "permis",
+    "transport",
+    "chez le client",
+    "clients éloignés"
+   ],
+   "star": true
+  },
+  {
+   "n": 94,
+   "section": "pratique",
+   "short": "Niveau d'anglais ?",
+   "start": "J'ai un niveau C1 en anglais, que j'ai évalué moi-même.",
+   "keys": [
+    "C1 auto-évalué",
+    "Pas de score officiel",
+    "À l'aise pour lire et échanger",
+    "Prêt à passer un test"
+   ],
+   "end": "",
+   "triggers": [
+    "niveau d'anglais",
+    "anglais",
+    "toeic",
+    "toefl",
+    "parlez-vous anglais",
+    "langues"
+   ],
+   "star": false
+  },
+  {
+   "n": 95,
+   "section": "pratique",
+   "short": "Disponibilités pour la suite ?",
+   "start": "Je suis flexible et je m'adapte à votre calendrier.",
+   "keys": [
+    "Je propose dès maintenant 2 ou 3 créneaux précis",
+    "Confirmation ensuite par mail"
+   ],
+   "end": "",
+   "triggers": [
+    "disponibilités",
+    "prochain entretien",
+    "créneaux",
+    "quand êtes-vous libre",
+    "planning",
+    "suite du processus"
+   ],
+   "star": false
+  },
+  {
+   "n": 96,
+   "section": "vos-questions",
+   "short": "Suite du processus ?",
+   "start": "Pour bien me préparer, pourriez-vous me décrire la suite du processus ?",
+   "keys": [
+    "Combien d'entretiens ?",
+    "Avec qui ?",
+    "Dans quel délai ?",
+    "Étude de cas ou présentation à préparer ?"
+   ],
+   "end": "",
+   "triggers": [
+    "avez-vous des questions",
+    "vos questions",
+    "étapes suivantes",
+    "processus de recrutement",
+    "délai de réponse"
+   ],
+   "star": true
+  },
+  {
+   "n": 97,
+   "section": "vos-questions",
+   "short": "Encadrement des stagiaires ?",
+   "start": "Comment sont encadrés les stagiaires au quotidien ?",
+   "keys": [
+    "Tuteur désigné ?",
+    "Points réguliers ?",
+    "Retours sur le travail ?",
+    "Je veux progresser vite"
+   ],
+   "end": "",
+   "triggers": [
+    "avez-vous des questions",
+    "vos questions",
+    "tutorat",
+    "encadrement",
+    "accompagnement"
+   ],
+   "star": false
+  },
+  {
+   "n": 98,
+   "section": "vos-questions",
+   "short": "Sujet défini ou missions ?",
+   "start": "Le stage porte-t-il sur un sujet défini, ou plutôt sur des missions auprès de clients ?",
+   "keys": [
+    "Exemples de l'offre : agents IA",
+    "Thèmes qui m'intéressent",
+    "Où pourrais-je être le plus utile ?"
+   ],
+   "end": "",
+   "triggers": [
+    "avez-vous des questions",
+    "vos questions",
+    "contenu du stage",
+    "missions du stage",
+    "sujet de stage"
+   ],
+   "star": false
+  },
+  {
+   "n": 99,
+   "section": "vos-questions",
+   "short": "Organisation équipe Marseille ?",
+   "start": "Comment est organisée l'équipe de Marseille, et avec qui travaillerais-je ?",
+   "keys": [
+    "Offre : une cinquantaine de consultants",
+    "Missions IT, industriel, cloud",
+    "Comment se répartissent les missions ?"
+   ],
+   "end": "",
+   "triggers": [
+    "avez-vous des questions",
+    "vos questions",
+    "équipe",
+    "agence de marseille",
+    "taille de l'équipe"
+   ],
+   "star": false
+  },
+  {
+   "n": 100,
+   "section": "vos-questions",
+   "short": "Ce qui fait réussir un stagiaire ?",
+   "start": "Selon vous, qu'est-ce qui fait qu'un stagiaire réussit chez Wavestone ?",
+   "keys": [
+    "Sur quels critères serai-je jugé ?",
+    "Pour m'y préparer dès maintenant"
+   ],
+   "end": "",
+   "triggers": [
+    "avez-vous des questions",
+    "vos questions",
+    "critères de réussite",
+    "attentes",
+    "évaluation du stagiaire"
+   ],
+   "star": false
+  },
+  {
+   "n": 101,
+   "section": "vos-questions",
+   "short": "Perspectives après le stage ?",
+   "start": "Quelles sont les perspectives après le stage ?",
+   "keys": [
+    "Pas de demande de promesse",
+    "Comprendre les débuts de carrière d'un consultant chez Wavestone"
+   ],
+   "end": "",
+   "triggers": [
+    "avez-vous des questions",
+    "vos questions",
+    "embauche",
+    "après le stage",
+    "évolution",
+    "cdi"
+   ],
+   "star": false
+  },
+  {
+   "n": 102,
+   "section": "vos-questions",
+   "short": "Des réserves sur mon profil ?",
+   "start": "Avez-vous des réserves sur mon profil, ou des points que je pourrais éclaircir maintenant ?",
+   "keys": [
+    "Votre retour m'aiderait à progresser",
+    "Quelle que soit la suite"
+   ],
+   "end": "",
+   "triggers": [
+    "avez-vous des questions",
+    "vos questions",
+    "doutes sur mon profil",
+    "retour sur mon profil",
+    "points à éclaircir"
+   ],
+   "star": false
+  },
+  {
+   "n": 103,
+   "section": "vos-questions",
+   "short": "Conclure l'entretien",
+   "start": "Je vous remercie pour cet échange : il m'a confirmé mon envie de rejoindre Wavestone, à Marseille.",
+   "keys": [
+    "Stage = conseil, cybersécurité, missions variées",
+    "Disponible, début avril 2027",
+    "Demander prochaines étapes et délai de réponse",
+    "Merci pour votre temps"
+   ],
+   "end": "",
+   "triggers": [
+    "un dernier mot",
+    "conclusion",
+    "mot de la fin",
+    "quelque chose à ajouter",
+    "autre chose à dire",
+    "fin d'entretien"
+   ],
+   "star": true
+  }
+ ]
+}
